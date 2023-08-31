@@ -1,0 +1,21 @@
+ID,Hospital Name,Score,District,Risk
+9,Owens PLC Medical Center,770,4,High
+17,Simpson-Howard Hospital Group,760,4,High
+23,Mitchell and Sons Medical Group,750,4,High
+25,Miller Medical Group,750,4,High
+33,Kramer-Torres Hospital Group,740,4,High
+37,"Robinson, Dalton and Gray Medical Center",735,4,Medium
+38,Allen Medical Center,735,4,Medium
+46,Humphrey-Lawrence Medical Center,730,4,High
+48,Roberts-Young Medical Center,730,4,High
+54,Howard-Miranda General Hospital,725,4,Medium
+63,Hamilton Medical Center,720,4,High
+65,Hodges and Sons General Hospital,720,4,High
+71,"Martin, Macdonald and Lee Medical Group",715,4,Medium
+73,Ruiz and Sons General Hospital,715,4,Medium
+94,Long Hospital Group,700,4,High
+95,Richards General Hospital,700,4,High
+99,"Robles, Parsons and Thompson Medical Center",700,4,High
+108,Hale-Proctor Medical Center,690,4,High
+118,Mitchell-Long Medical Group,690,4,High
+120,"Raymond, Rosales and Willis Hospital Group",690,4,High

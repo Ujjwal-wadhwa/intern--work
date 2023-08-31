@@ -1,0 +1,1401 @@
+ID,Hospital Name,var1,var2,var3,var4,var5,var6,var7,var8,var9,var10,var11,var12,var13,var14,var15,var16,var17,var18,Score,District,Risk
+0,Campos Hospital Group,8,8,10,10,8,8,4,10,10,10,10,10,2,8,2,4,10,10,820,1,High
+1,Scott and Sons Hospital Group,10,8,6,10,10,6,10,10,10,4,8,10,2,10,6,4,10,6,810,5,High
+2,"King, Jefferson and White General Hospital",10,8,4,8,8,10,8,2,10,10,6,8,8,8,6,10,4,10,795,3,Medium
+3,"Hendricks, Morgan and Wilson Medical Center",6,8,8,6,8,6,6,8,10,10,6,10,10,10,4,2,8,10,785,2,Medium
+4,"Arnold, Moore and Haas Hospital Group",6,8,8,4,2,10,10,4,6,10,10,10,10,10,6,10,10,2,785,2,Medium
+5,Beard-Anderson Hospital Group,8,4,8,10,10,10,10,4,6,10,2,8,10,10,4,8,6,8,785,1,Medium
+6,Garrett-Keller Hospital Group,4,6,6,8,10,8,10,2,6,6,10,8,10,6,8,8,8,10,775,5,Medium
+7,"Chase, Torres and Jones Medical Group",10,6,8,2,10,8,10,4,10,6,2,10,6,10,6,10,6,10,775,2,Medium
+8,"Simmons, Banks and Humphrey Hospital Group",4,4,6,8,6,6,10,10,10,10,8,2,8,4,10,8,8,10,770,3,High
+9,Owens PLC Medical Center,8,4,8,8,10,8,8,10,10,4,6,10,4,10,8,4,8,4,770,4,High
+10,Robinson Hospital Group,6,8,10,4,8,4,10,4,10,4,4,8,8,10,10,10,4,10,765,5,Medium
+11,"Turner, Jones and Doyle Medical Center",8,6,8,6,10,6,4,10,2,10,2,10,10,8,8,6,10,8,765,2,Medium
+12,Williams-Stephens Medical Center,4,6,2,6,6,10,6,4,10,8,8,10,8,10,8,10,8,8,765,1,Medium
+13,"Roy, Riley and Peters Hospital Group",10,10,8,8,8,4,4,4,10,10,8,6,6,4,10,6,4,10,760,3,High
+14,"Shah, Baldwin and Snyder General Hospital",8,10,6,10,10,4,6,6,10,8,10,6,6,6,6,10,6,2,760,3,High
+15,Caldwell-Hall Medical Group,10,6,10,8,8,10,4,8,8,10,10,8,6,2,2,6,10,4,760,2,High
+16,"Moss, White and Ruiz General Hospital",4,8,8,2,8,6,10,4,10,10,10,2,4,10,8,8,10,8,760,5,High
+17,Simpson-Howard Hospital Group,10,8,10,2,10,10,6,6,10,6,4,6,2,8,10,6,8,8,760,4,High
+18,Jones-Clayton General Hospital,10,2,10,8,8,8,10,10,6,4,6,4,10,8,8,10,2,6,760,2,High
+19,Moore-Allen Medical Group,10,8,10,10,4,6,10,6,8,8,6,10,8,8,10,4,2,2,760,3,High
+20,"Davis, Smith and Jackson General Hospital",10,8,10,6,10,8,8,8,4,10,8,8,10,6,2,2,6,6,755,2,Medium
+21,Jackson-Alexander General Hospital,8,6,10,6,8,6,10,8,2,10,6,10,10,6,6,10,2,6,755,2,Medium
+22,Reynolds-Young Medical Group,2,8,8,6,10,10,2,2,10,8,8,10,6,10,6,6,8,10,755,3,Medium
+23,Mitchell and Sons Medical Group,8,10,4,8,10,2,2,10,10,4,10,10,6,6,8,8,10,2,750,4,High
+24,Ferguson PLC Medical Center,10,6,10,8,10,8,8,2,8,2,6,10,2,10,8,10,6,4,750,5,High
+25,Miller Medical Group,4,8,6,8,10,6,10,8,6,6,8,10,4,2,10,8,4,10,750,4,High
+26,"Wilson, Robles and Morse Medical Group",10,2,10,4,4,10,8,4,8,10,10,10,10,8,2,6,10,2,750,2,High
+27,Carter Inc Medical Group,10,4,10,2,4,6,8,4,8,10,10,10,4,10,6,6,10,6,745,3,Medium
+28,"Ritter, Cabrera and Hess Medical Group",8,10,4,4,4,10,8,10,8,6,8,10,10,4,4,2,10,8,745,1,Medium
+29,"Elliott, Murphy and Cochran Medical Group",8,10,10,8,2,6,8,6,2,10,10,2,10,8,4,4,10,10,745,1,Medium
+30,Cardenas-Mullins Medical Group,10,6,10,10,4,8,6,8,4,2,6,8,10,10,6,2,8,10,745,2,Medium
+31,Carter-Brown Hospital Group,10,8,10,8,10,10,2,6,4,8,2,10,10,10,6,4,2,8,745,3,Medium
+32,Walton-Williams General Hospital,8,10,6,8,6,6,4,10,10,8,2,8,8,6,2,10,8,6,740,5,High
+33,Kramer-Torres Hospital Group,6,6,8,8,4,2,6,6,10,10,10,6,10,4,10,8,2,10,740,4,High
+34,Coleman General Hospital,2,10,8,6,8,8,10,4,8,6,10,4,10,8,4,8,8,4,740,1,High
+35,"Lewis, Murray and Mercado General Hospital",6,2,10,10,6,10,10,8,10,10,2,6,8,2,2,10,10,4,740,5,High
+36,Deleon-Cox Medical Center,10,6,8,6,10,10,8,6,6,4,10,6,2,2,6,10,10,6,740,2,High
+37,"Robinson, Dalton and Gray Medical Center",4,10,4,8,10,10,10,6,6,8,8,2,8,4,8,8,2,10,735,4,Medium
+38,Allen Medical Center,8,10,6,10,6,10,2,6,6,8,4,10,8,10,8,6,4,4,735,4,Medium
+39,Davidson Medical Center,10,10,6,8,4,6,6,6,6,6,10,6,2,10,10,10,2,8,735,1,Medium
+40,"Thompson, Reid and Daniels Hospital Group",2,2,4,4,10,10,8,8,8,4,10,4,10,10,6,6,10,10,735,1,Medium
+41,Lee-Parker Hospital Group,2,6,10,10,10,2,8,4,6,4,8,8,4,10,10,10,4,10,735,1,Medium
+42,Rosales-Rodriguez Medical Group,10,8,8,6,2,10,2,8,10,8,8,4,10,8,6,2,6,10,735,5,Medium
+43,Price-Pruitt General Hospital,8,10,4,4,2,10,8,8,8,8,10,8,2,8,10,10,2,6,735,1,Medium
+44,Alexander-Ayers Hospital Group,2,10,8,4,10,8,4,10,6,10,8,8,6,8,2,6,8,8,735,5,Medium
+45,Martinez-Adams General Hospital,8,8,8,2,4,8,10,8,8,10,6,10,4,6,4,8,4,10,735,1,Medium
+46,Humphrey-Lawrence Medical Center,6,2,10,10,8,2,8,8,2,8,10,8,2,8,10,10,8,4,730,4,High
+47,Thomas and Sons Hospital Group,2,10,10,6,4,10,8,8,8,10,10,6,6,6,6,4,6,4,730,3,High
+48,Roberts-Young Medical Center,2,10,8,10,8,8,6,8,4,10,4,8,4,2,10,8,6,8,730,4,High
+49,"Bolton, Chavez and Wiley Hospital Group",6,4,10,8,4,2,10,10,4,10,10,10,2,8,8,6,8,4,730,2,High
+50,"Montgomery, Reid and Glenn General Hospital",6,4,10,10,10,10,4,6,4,6,10,4,6,4,2,10,8,10,730,1,High
+51,Johnson-Evans Medical Center,10,2,6,8,8,8,2,6,10,10,6,4,6,4,10,8,10,6,730,3,High
+52,"Russell, Powell and Gibson Medical Group",8,6,8,8,6,2,6,10,10,4,6,6,4,4,8,10,10,8,730,2,High
+53,"Brown, Wilkins and Moran Medical Center",10,8,6,2,2,2,6,6,10,8,8,4,10,10,10,8,8,6,725,2,Medium
+54,Howard-Miranda General Hospital,6,8,10,6,2,8,10,8,8,4,6,10,10,8,4,8,2,6,725,4,Medium
+55,Johnston and Sons General Hospital,10,4,10,4,6,10,2,8,6,10,6,2,4,10,10,8,4,10,725,2,Medium
+56,Lester and Sons Hospital Group,10,2,2,8,6,10,10,2,6,10,4,6,8,10,8,8,6,8,725,5,Medium
+57,"Peters, Fox and Walker Hospital Group",8,8,8,2,6,8,8,10,2,2,10,6,10,8,6,8,4,10,725,3,Medium
+58,Lee-Davenport Hospital Group,6,6,10,8,6,10,6,4,2,2,10,4,10,8,8,8,10,6,725,2,Medium
+59,Morris-Owens Medical Center,8,10,2,6,10,10,8,6,10,2,4,6,6,8,10,4,6,8,725,2,Medium
+60,Smith-Schwartz General Hospital,10,4,4,10,4,6,8,4,2,8,10,8,10,6,10,2,10,8,725,2,Medium
+61,Wall-Luna Medical Group,4,6,6,10,8,4,4,2,8,10,10,8,2,4,10,10,8,8,720,3,High
+62,Jacobs PLC Medical Center,10,6,8,6,10,10,6,2,10,8,8,10,2,2,4,4,8,8,720,2,High
+63,Hamilton Medical Center,8,10,8,2,10,6,10,10,10,4,10,8,4,4,10,4,2,2,720,4,High
+64,"Smith, Harris and Brown Medical Center",8,4,8,4,8,10,10,10,8,6,2,10,4,10,2,8,6,4,720,3,High
+65,Hodges and Sons General Hospital,6,10,10,4,8,4,8,8,8,10,8,4,4,2,10,6,8,4,720,4,High
+66,"Stephens, Hamilton and Munoz Medical Center",10,4,10,6,8,10,2,2,10,10,2,6,6,6,8,10,6,6,720,1,High
+67,"Lewis, Johnston and Hart Medical Center",8,6,10,2,4,2,6,8,10,4,10,6,10,2,10,8,10,6,720,3,High
+68,Boyd-Sutton Hospital Group,10,4,6,2,2,2,10,10,4,8,10,8,10,4,10,8,10,4,720,3,High
+69,"Mills, Davis and Mullins General Hospital",10,4,8,8,2,6,6,8,6,2,8,10,6,8,8,6,10,6,715,2,Medium
+70,Reilly and Sons Medical Center,8,8,6,10,6,8,2,10,4,6,8,6,8,4,6,10,2,10,715,5,Medium
+71,"Martin, Macdonald and Lee Medical Group",2,8,10,4,2,8,8,8,10,10,4,4,10,10,4,2,8,10,715,4,Medium
+72,Holmes PLC Medical Center,10,8,8,8,10,4,10,2,2,8,6,4,10,10,6,4,2,10,715,5,Medium
+73,Ruiz and Sons General Hospital,4,10,10,10,2,10,2,10,4,8,4,6,6,6,4,10,6,10,715,4,Medium
+74,"Hampton, Garcia and Bell Medical Center",10,10,8,8,6,8,2,10,6,10,6,4,6,6,8,2,4,8,715,3,Medium
+75,Thomas-Gonzalez Medical Group,6,10,10,2,4,6,2,10,2,2,4,8,10,10,8,8,10,10,715,3,Medium
+76,"Brown, Huff and Watts Medical Center",6,6,8,10,4,10,6,6,4,10,8,8,4,2,8,2,8,10,710,3,High
+77,Mccarty-Wheeler Medical Group,10,4,6,8,2,8,10,6,10,10,8,4,2,4,10,10,2,6,710,3,High
+78,Knight-Patrick General Hospital,10,6,8,8,6,8,8,4,4,8,10,2,8,6,8,10,4,2,710,3,High
+79,Johnson Medical Center,4,6,10,8,4,6,10,8,6,10,10,8,2,4,6,6,8,4,710,2,High
+80,Casey PLC General Hospital,10,2,10,4,4,8,2,8,8,4,10,6,6,10,10,4,10,4,710,5,High
+81,Miller-Simmons General Hospital,2,10,8,6,6,8,10,2,10,8,8,8,6,4,4,6,10,4,710,3,High
+82,Myers PLC General Hospital,6,8,4,10,10,6,10,4,8,10,6,6,4,6,2,6,10,4,710,5,High
+83,Odonnell-Hampton Hospital Group,6,8,4,10,6,8,10,2,6,10,10,6,8,10,4,4,2,6,705,1,Medium
+84,"Gallagher, Miller and Jones Medical Group",4,10,10,2,8,6,2,8,4,2,10,10,4,6,10,8,6,10,705,1,Medium
+85,Barrett-Collier General Hospital,10,4,2,2,10,4,10,4,6,4,4,8,8,10,8,10,6,10,705,2,Medium
+86,"Mckinney, Cook and Bell Medical Group",4,10,8,8,2,2,6,8,4,8,4,6,10,10,6,4,10,10,705,5,Medium
+87,Booth-Choi Medical Center,8,4,4,4,4,10,10,8,4,8,8,8,6,6,8,2,8,10,705,3,Medium
+88,"Smith, Stewart and Thomas Hospital Group",8,10,4,10,8,6,6,2,8,8,4,2,8,10,4,6,8,8,705,5,Medium
+89,Powell-Mooney Hospital Group,10,4,4,4,8,10,8,2,6,10,4,6,10,6,4,10,8,6,705,2,Medium
+90,Fry-Smith Medical Group,6,2,6,2,2,2,10,8,6,4,4,10,10,10,10,8,10,10,705,2,Medium
+91,Frederick-Wright Medical Center,4,8,6,8,8,8,6,4,6,8,6,6,10,8,6,4,10,4,705,2,Medium
+92,Robles PLC General Hospital,2,8,8,10,2,10,10,10,6,2,6,8,10,10,8,6,2,2,705,1,Medium
+93,"Richardson, Lopez and Rice General Hospital",2,10,8,10,8,10,8,8,10,6,6,6,2,4,4,4,8,4,700,5,High
+94,Long Hospital Group,10,6,2,2,2,2,8,10,10,10,10,8,2,10,8,10,6,2,700,4,High
+95,Richards General Hospital,6,10,6,6,4,10,10,10,6,2,4,6,6,6,2,10,10,4,700,4,High
+96,Vega-Terry General Hospital,2,10,8,4,2,10,10,10,10,2,10,4,6,6,6,6,6,6,700,1,High
+97,Clark-Frank Medical Group,8,8,8,8,6,8,8,6,4,6,4,4,8,6,8,6,8,4,700,3,High
+98,Lyons and Sons General Hospital,10,8,4,8,6,4,10,4,10,2,6,2,8,10,6,10,8,2,700,5,High
+99,"Robles, Parsons and Thompson Medical Center",8,10,2,8,10,10,6,6,6,10,2,4,6,4,6,10,6,4,700,4,High
+100,"Adams, Ramirez and Roberts Medical Group",6,4,2,4,8,2,2,10,10,2,8,10,6,10,6,10,8,10,695,1,Medium
+101,Gibson and Sons Medical Center,10,10,10,10,6,8,2,2,8,2,2,10,4,8,8,6,2,10,695,5,Medium
+102,Greene-Hurley Hospital Group,6,6,8,4,2,8,6,4,8,6,8,10,2,10,10,4,8,8,695,3,Medium
+103,Garcia Medical Group,8,10,2,4,8,10,4,6,4,8,2,2,10,8,10,8,4,10,695,2,Medium
+104,Guerra and Sons Medical Center,10,10,2,4,4,2,10,10,8,8,10,10,6,6,2,6,6,4,695,2,Medium
+105,Grant-Carlson Hospital Group,10,10,6,10,6,6,4,2,4,2,10,8,2,8,10,2,10,8,695,2,Medium
+106,Dixon-Phillips General Hospital,2,8,10,6,4,10,6,2,4,4,8,10,8,10,8,10,4,4,695,2,Medium
+107,"Perkins, Tapia and Berry Medical Center",6,10,2,4,4,6,6,10,4,6,8,4,10,4,10,8,10,6,695,3,Medium
+108,Hale-Proctor Medical Center,8,4,4,4,10,8,10,10,6,2,10,8,8,2,2,6,8,6,690,4,High
+109,Fields Medical Center,4,8,6,10,6,6,2,8,6,8,8,6,4,8,6,10,8,2,690,3,High
+110,"Gonzales, Scott and Diaz Medical Center",8,6,10,8,6,10,4,4,6,6,4,4,6,6,8,8,6,6,690,5,High
+111,"Nelson, Wood and Burke Medical Group",4,6,6,10,8,10,8,10,4,6,8,6,10,4,6,4,2,4,690,5,High
+112,Greene-Brock Medical Center,2,4,6,10,8,8,8,6,2,4,8,10,10,8,6,8,6,2,690,3,High
+113,Snow PLC General Hospital,2,2,8,10,8,2,6,2,10,6,8,6,10,6,10,10,4,6,690,1,High
+114,Reyes-Alvarez Medical Center,10,10,10,10,10,2,10,2,10,4,2,4,4,8,4,2,10,4,690,5,High
+115,Gordon-Rosales Medical Group,10,10,8,6,10,6,4,10,4,4,4,8,4,2,10,6,4,6,690,5,High
+116,Lopez Inc Medical Group,10,4,6,8,10,8,10,8,4,6,8,6,4,4,2,10,4,4,690,2,High
+117,Ayers PLC Hospital Group,8,2,10,2,4,8,4,6,10,6,10,8,2,2,6,8,10,10,690,3,High
+118,Mitchell-Long Medical Group,2,2,10,6,4,4,10,8,10,2,4,8,6,6,8,10,6,10,690,4,High
+119,Blackburn Medical Center,6,2,10,6,4,4,8,10,10,10,6,6,10,2,6,8,6,2,690,3,High
+120,"Raymond, Rosales and Willis Hospital Group",4,4,10,8,2,6,10,8,6,6,2,6,8,8,8,8,8,4,690,4,High
+121,Miller-Hernandez General Hospital,8,10,4,8,8,2,4,4,10,8,8,8,4,4,4,8,8,6,690,4,High
+122,Miller-Davis Medical Group,8,8,2,6,10,10,8,4,4,10,8,4,2,2,4,8,8,10,690,3,High
+123,"Benson, Brown and Reyes General Hospital",8,8,10,8,8,4,4,6,8,2,8,10,2,6,8,4,10,2,690,2,High
+124,Torres-Reyes Medical Group,2,8,4,8,6,8,8,4,8,4,10,4,6,8,10,8,8,2,690,4,High
+125,Chapman Medical Center,4,6,10,10,2,2,2,8,4,4,10,6,8,2,10,10,8,10,690,3,High
+126,Sims-Walter Medical Center,6,2,8,10,10,8,4,8,10,6,2,10,4,6,4,4,6,8,690,3,High
+127,Fowler-Aguirre General Hospital,10,4,6,2,10,8,10,4,4,8,8,6,4,6,2,10,8,6,690,5,High
+128,Johnson-Martinez Medical Group,10,8,4,10,6,8,8,8,2,2,8,6,2,10,2,10,6,6,685,2,Medium
+129,Sanchez-Johnson Medical Group,10,10,2,8,6,2,2,10,10,10,2,2,4,8,10,4,6,10,685,1,Medium
+130,Juarez Hospital Group,6,4,10,8,6,6,8,8,2,4,4,8,8,8,8,2,10,6,685,2,Medium
+131,"Gillespie, Lewis and Escobar Medical Center",4,6,6,8,10,8,6,4,8,10,4,2,6,6,10,2,6,10,685,5,Medium
+132,"Gonzalez, Lopez and Flores Hospital Group",6,10,6,10,4,6,6,6,6,6,2,6,2,10,8,6,8,8,685,2,Medium
+133,"King, Ross and Cain Medical Group",10,10,10,4,4,10,2,2,4,8,2,4,8,4,8,10,8,8,685,5,Medium
+134,"Richardson, Young and Moreno Hospital Group",4,10,8,6,10,6,10,4,2,8,4,2,10,8,8,6,2,8,685,2,Medium
+135,"Patterson, Sanford and Stewart Hospital Group",8,4,4,10,8,6,10,4,8,6,10,2,6,8,4,6,2,10,685,4,Medium
+136,Conway-White Medical Group,2,4,10,8,2,10,8,6,4,4,6,10,8,10,8,4,2,10,685,2,Medium
+137,Rhodes-Moreno Medical Group,8,4,4,6,8,8,10,4,2,6,6,10,10,10,6,10,2,2,685,5,Medium
+138,"Collins, Buckley and Montes Medical Center",8,10,8,2,2,8,6,4,6,10,8,8,2,10,2,6,8,8,685,3,Medium
+139,Olson Medical Center,4,10,6,4,4,10,8,2,10,10,6,10,8,6,2,6,2,8,685,5,Medium
+140,"James, Graham and Avila Medical Group",8,10,4,4,8,10,6,10,2,10,6,8,2,10,2,6,6,4,685,1,Medium
+141,Park Hospital Group,10,6,2,10,8,8,2,4,6,10,2,8,10,4,10,4,6,6,685,5,Medium
+142,"Meyer, Howe and Day Medical Center",6,4,6,6,6,2,4,8,2,8,6,2,10,10,6,10,10,10,685,2,Medium
+143,"Smith, Wood and Walls Hospital Group",8,10,10,2,8,4,6,6,10,6,2,6,6,4,6,4,10,6,680,4,High
+144,"Ross, Taylor and Haynes Medical Group",4,8,10,10,2,6,2,4,10,6,2,8,8,6,8,8,8,4,680,2,High
+145,"Marshall, Barnett and Cook Medical Center",8,4,10,6,6,6,4,6,8,4,8,8,6,6,10,4,6,4,680,4,High
+146,Blanchard-Cruz General Hospital,2,4,8,2,10,10,4,8,6,4,8,2,10,8,10,10,6,2,680,4,High
+147,Patel Hospital Group,6,2,10,10,4,2,4,4,8,10,8,2,10,2,10,4,10,8,680,1,High
+148,Chapman-Hood Medical Center,10,8,6,8,2,8,10,2,8,2,6,6,8,2,2,10,6,10,680,2,High
+149,Mckinney Inc Medical Center,8,10,10,6,2,4,10,2,6,8,8,8,10,2,10,2,4,4,680,1,High
+150,Wilson-Cooper General Hospital,10,6,10,10,10,2,2,6,8,4,4,10,2,4,6,2,10,8,680,5,High
+151,Adams Hospital Group,10,2,6,8,10,10,6,8,8,6,6,4,4,10,2,4,4,6,680,3,High
+152,Bailey General Hospital,8,4,8,10,8,10,10,2,6,10,2,6,6,2,8,4,6,4,680,5,High
+153,Espinoza-Gregory General Hospital,8,6,2,8,8,10,6,8,10,2,10,4,4,8,2,4,10,4,680,2,High
+154,"Ellis, Burch and Dorsey Medical Center",6,8,10,10,4,4,2,10,6,6,8,8,4,8,6,10,2,2,680,2,High
+155,"Moore, Phillips and Martin General Hospital",10,6,6,6,8,8,10,6,4,8,10,4,2,2,10,8,4,2,680,5,High
+156,Gonzalez and Sons Medical Center,10,8,2,10,8,6,10,8,8,2,8,2,4,2,6,10,6,4,680,5,High
+157,Brennan-Thomas Medical Center,6,10,6,10,4,8,8,8,2,6,8,8,8,2,10,4,4,2,680,2,High
+158,Martinez-Miller Hospital Group,8,8,4,6,6,8,4,10,2,6,8,2,6,10,8,2,8,8,675,4,Medium
+159,"Stevens, Yoder and Mccann General Hospital",10,6,4,10,2,6,8,10,6,8,8,2,6,8,8,2,4,6,675,1,Medium
+160,Hernandez-King General Hospital,4,10,10,4,8,8,10,2,8,2,6,4,2,10,2,6,10,8,675,1,Medium
+161,"Evans, Hall and Garza General Hospital",2,6,4,4,2,8,6,6,4,4,10,10,10,10,4,6,8,10,675,2,Medium
+162,Grant PLC General Hospital,4,2,8,6,8,10,10,4,2,4,2,10,8,4,10,8,4,10,675,2,Medium
+163,Werner-Parker General Hospital,6,10,10,4,2,8,4,6,8,4,8,4,10,6,4,6,4,10,675,1,Medium
+164,"Huffman, Wilson and Figueroa Hospital Group",8,8,2,2,4,2,6,4,8,6,10,8,6,10,8,8,10,4,675,5,Medium
+165,Davidson Inc Medical Center,6,8,8,4,10,8,2,10,4,6,2,10,8,2,4,2,10,10,675,1,Medium
+166,Miller PLC General Hospital,6,4,2,2,4,6,8,10,10,2,8,10,10,6,2,10,6,8,675,2,Medium
+167,Fry Hospital Group,10,4,2,8,4,6,2,8,4,10,8,8,2,8,4,10,6,10,675,4,Medium
+168,Thompson PLC General Hospital,4,8,8,2,8,10,4,2,4,10,6,2,10,8,6,8,6,8,675,1,Medium
+169,Thomas-French Hospital Group,2,2,10,2,4,8,8,8,8,8,10,8,8,6,6,4,6,4,670,1,High
+170,"Mendoza, Nelson and Acosta Medical Group",4,8,6,6,2,6,8,8,10,10,2,6,4,6,2,10,6,8,670,1,High
+171,"Sanchez, Jones and Rivera Hospital Group",2,2,10,2,8,8,6,4,6,10,8,6,8,4,8,10,8,2,670,1,High
+172,"Ford, Finley and Joseph Medical Group",4,4,6,10,2,2,8,8,10,6,10,4,4,2,6,10,6,10,670,2,High
+173,"Wang, Meyers and Chapman Medical Center",10,6,4,4,2,4,8,2,8,2,10,6,10,6,10,10,8,2,670,5,High
+174,"Fowler, Meyer and Morris Medical Center",6,8,10,2,10,6,2,4,10,6,8,6,2,2,4,10,8,8,670,4,High
+175,Williams Hospital Group,2,6,8,8,8,10,6,8,2,6,4,8,2,10,8,10,4,2,670,1,High
+176,Campbell PLC Hospital Group,10,6,8,8,10,4,2,6,10,10,2,4,4,10,6,6,4,2,670,5,High
+177,Perry Medical Group,2,10,4,10,8,4,8,4,4,10,6,4,2,6,10,6,10,4,670,3,High
+178,Jones PLC Medical Center,10,8,10,6,10,6,6,10,2,4,4,2,2,2,4,10,6,10,670,2,High
+179,Whitaker Hospital Group,10,10,2,4,8,8,4,2,10,2,4,10,6,6,6,10,8,2,670,1,High
+180,Johnson and Sons General Hospital,2,2,6,10,10,2,10,8,10,10,6,2,8,2,2,6,8,8,670,4,High
+181,"Davis, Contreras and Robbins Hospital Group",10,2,4,2,8,6,8,4,6,2,6,6,8,8,8,10,8,6,665,5,Medium
+182,"Mercado, Matthews and Hampton Medical Group",6,10,6,4,6,8,2,8,4,6,6,4,2,10,10,8,8,4,665,3,Medium
+183,Gallegos General Hospital,8,6,8,10,2,8,8,2,2,6,4,4,4,8,10,4,10,8,665,2,Medium
+184,"Maynard, Peters and Gilbert Medical Center",6,8,8,2,10,10,2,4,2,6,2,4,8,10,8,6,8,8,665,5,Medium
+185,Bishop-Petty Hospital Group,2,8,2,6,4,10,4,10,10,6,6,6,8,10,10,2,4,4,665,4,Medium
+186,Meyer-Martinez General Hospital,10,8,2,8,10,8,8,4,4,6,10,2,4,10,4,4,4,6,665,3,Medium
+187,Allen-Carter General Hospital,6,10,2,2,2,10,2,10,8,10,6,4,8,10,8,10,2,2,665,2,Medium
+188,"Jones, Mueller and Wolfe Medical Group",6,8,10,4,4,10,4,4,4,6,8,8,4,4,2,8,10,8,665,5,Medium
+189,Lewis-Proctor Medical Group,10,4,10,6,6,6,4,4,4,6,8,6,10,8,8,2,4,6,665,3,Medium
+190,Hammond-Johnson Medical Center,8,8,4,4,6,6,8,6,4,10,4,10,4,8,4,4,8,6,665,3,Medium
+191,Mitchell PLC Medical Center,2,4,2,6,2,4,8,2,4,10,10,10,10,8,4,8,10,8,665,2,Medium
+192,"Horn, Baker and Newman General Hospital",6,8,10,2,8,2,2,2,10,8,2,10,6,6,8,4,10,8,665,5,Medium
+193,West PLC General Hospital,6,8,6,10,4,10,4,6,2,8,2,10,4,8,6,2,10,6,665,1,Medium
+194,Brown General Hospital,10,8,2,2,10,2,8,8,2,6,8,10,4,8,6,6,4,8,665,1,Medium
+195,Jones Inc Medical Group,8,10,6,6,4,4,4,6,6,8,2,8,10,8,4,4,10,4,665,5,Medium
+196,Warren-Allen Medical Group,10,8,4,2,10,10,6,4,4,10,4,8,8,2,6,4,2,10,665,3,Medium
+197,Key Hospital Group,2,10,2,2,6,2,8,10,10,4,2,10,10,6,4,10,8,6,665,2,Medium
+198,Hernandez PLC General Hospital,4,6,10,4,2,6,6,10,4,10,4,4,10,4,8,6,8,4,660,5,High
+199,Gentry PLC Medical Group,4,8,6,6,8,8,6,4,10,6,6,2,10,4,2,8,6,6,660,5,High
+200,Edwards-May Medical Center,8,8,10,10,6,8,6,10,6,2,6,2,2,2,10,2,4,8,660,1,High
+201,"Young, Clarke and Meyer Hospital Group",10,6,10,2,2,6,6,6,8,6,10,6,4,10,6,6,4,2,660,1,High
+202,Fowler PLC Medical Center,10,4,8,2,2,4,10,10,8,6,10,6,6,2,4,8,6,4,660,3,High
+203,Thomas-Fowler Medical Group,6,2,8,8,10,10,2,4,6,8,8,6,4,2,6,10,8,2,660,4,High
+204,"Nelson, Aguirre and Hodges Medical Group",10,4,4,4,4,10,10,6,10,10,2,2,8,2,6,4,10,4,660,5,High
+205,"Olson, Hernandez and Barker Hospital Group",10,8,2,8,2,8,8,8,6,10,6,4,10,2,8,4,2,4,660,2,High
+206,Cole and Sons Medical Center,2,6,8,6,6,2,10,8,10,10,2,2,10,8,10,4,4,2,660,1,High
+207,"Bailey, Young and Freeman Medical Center",8,6,6,8,10,10,2,4,10,2,8,10,2,2,4,6,8,4,660,1,High
+208,"Black, Middleton and Carpenter Medical Group",8,4,8,8,6,10,4,6,6,4,2,10,2,2,10,4,8,8,660,3,High
+209,Wilson Medical Center,2,10,6,10,10,2,10,10,2,6,6,6,4,4,6,6,6,4,660,4,High
+210,"Vasquez, Johnson and Wright Medical Group",2,10,8,10,2,2,6,8,6,6,10,4,4,8,2,10,8,4,660,2,High
+211,"Vega, Henry and Wagner Medical Center",2,2,6,8,10,8,6,6,4,10,4,2,4,4,6,8,10,10,660,5,High
+212,Holland Inc Medical Group,10,8,4,8,4,6,10,2,8,10,6,2,2,6,2,10,6,6,660,4,High
+213,Bridges-Burns Medical Center,6,6,2,10,8,10,2,8,6,2,8,4,2,6,10,8,4,8,660,1,High
+214,Miller General Hospital,8,2,6,10,6,8,4,4,10,8,6,8,10,2,2,6,4,6,660,1,High
+215,"Gonzales, Knight and Wright Hospital Group",6,6,4,8,6,4,4,8,10,6,10,4,8,8,2,6,6,4,660,4,High
+216,Cole Hospital Group,8,10,4,4,6,4,4,4,2,10,2,2,10,6,10,8,6,10,655,1,Medium
+217,Rose Inc Medical Center,10,8,4,4,10,2,8,2,2,8,8,8,10,2,8,2,6,8,655,3,Medium
+218,Thomas-Perkins Medical Group,10,8,4,4,6,8,4,2,8,2,10,2,8,8,10,2,8,6,655,3,Medium
+219,Waters-Harvey General Hospital,6,2,8,8,2,6,10,2,4,10,2,10,6,8,6,6,4,10,655,4,Medium
+220,Johnston-Hicks General Hospital,4,6,4,2,8,4,2,10,8,6,4,10,8,10,8,10,4,2,655,2,Medium
+221,Newman Inc Hospital Group,6,4,4,4,2,2,6,2,10,2,8,10,10,10,10,6,6,8,655,1,Medium
+222,Mejia Inc Hospital Group,8,10,10,2,4,8,6,10,6,4,6,2,4,10,2,2,8,8,655,4,Medium
+223,Davidson-Diaz Hospital Group,8,8,4,6,8,2,8,8,8,2,4,4,6,10,6,4,8,6,655,1,Medium
+224,Anderson-Morrison Hospital Group,2,10,2,8,6,2,8,6,4,2,8,10,8,8,4,8,6,8,655,5,Medium
+225,"Contreras, Kramer and Silva Medical Center",6,10,4,6,8,2,10,6,6,8,2,6,10,8,2,4,4,8,655,2,Medium
+226,"Silva, Love and Rios Hospital Group",8,8,8,2,10,2,6,10,2,8,2,8,6,10,8,2,4,6,655,2,Medium
+227,Armstrong-Hart Medical Group,8,8,2,4,6,2,6,4,8,2,6,8,8,4,4,10,10,10,655,5,Medium
+228,"Doyle, Hernandez and Leonard Hospital Group",4,4,2,4,8,2,4,4,4,10,10,10,10,8,10,4,10,2,655,5,Medium
+229,Daniels-Mcclure Medical Group,10,6,8,4,4,4,4,8,4,6,4,10,2,10,8,6,8,4,655,3,Medium
+230,Melendez-Howe General Hospital,6,2,6,4,8,8,2,4,6,10,2,6,6,2,10,8,8,10,650,3,High
+231,Adams PLC Medical Group,6,6,8,10,8,10,2,6,10,2,2,2,10,8,4,4,4,6,650,3,High
+232,Roman Medical Group,6,8,8,8,10,10,2,4,4,8,2,6,2,2,4,10,6,8,650,1,High
+233,Sawyer-Hull Hospital Group,10,2,4,10,4,6,8,10,10,4,6,6,4,6,4,6,2,6,650,2,High
+234,Martin PLC General Hospital,10,8,8,8,4,4,2,8,6,4,10,6,10,2,6,8,2,2,650,4,High
+235,"Cisneros, Williams and Bryan Hospital Group",6,2,8,8,10,4,10,4,10,6,2,4,6,2,2,10,6,8,650,3,High
+236,Edwards-Jones General Hospital,4,10,6,4,10,10,4,6,2,10,2,10,2,2,10,6,6,4,650,4,High
+237,Brown-Murphy Medical Center,4,6,4,10,2,8,6,6,10,8,4,6,2,6,2,8,10,6,650,1,High
+238,Johnston-Lopez General Hospital,6,6,8,6,10,8,6,2,10,10,2,2,8,2,6,4,8,4,650,2,High
+239,"Snyder, Todd and Lee Medical Center",8,2,2,8,6,2,6,6,10,8,2,6,2,8,10,10,8,4,650,2,High
+240,Hogan-Hernandez Hospital Group,4,6,10,2,2,10,8,8,10,8,2,4,8,6,2,8,8,2,650,3,High
+241,Jensen Medical Center,6,6,10,4,8,2,10,8,6,4,8,2,6,10,6,4,4,4,650,4,High
+242,Mcintosh PLC Medical Group,4,2,6,6,6,10,10,2,10,6,4,4,4,4,4,10,8,8,650,2,High
+243,"Porter, Miller and Faulkner Medical Group",2,6,10,4,4,2,8,10,6,8,2,6,6,4,10,6,8,6,650,2,High
+244,Miller-Martin Medical Group,6,4,10,4,8,4,8,4,10,2,6,10,2,4,10,4,8,4,650,5,High
+245,Harrison and Sons Hospital Group,4,10,2,8,2,2,8,6,4,6,8,4,8,8,4,10,6,8,645,3,Medium
+246,Johnson-Key Medical Group,10,2,4,6,4,6,6,10,4,10,6,10,8,6,2,6,2,6,645,3,Medium
+247,Castillo-Evans Medical Group,2,4,6,10,2,4,8,8,6,4,8,8,4,10,2,10,2,10,645,4,Medium
+248,Hancock-Berry General Hospital,6,10,6,10,2,4,6,6,2,10,4,4,6,10,8,6,6,2,645,4,Medium
+249,"Jensen, Robertson and Wells General Hospital",2,10,10,2,2,4,10,8,6,4,4,8,6,10,2,2,10,8,645,3,Medium
+250,Guzman Medical Group,4,4,2,6,2,10,10,4,2,10,10,6,4,10,6,6,4,8,645,4,Medium
+251,Shaw Inc Hospital Group,6,10,4,6,6,4,2,6,10,4,8,8,4,6,10,4,4,6,645,4,Medium
+252,Rogers and Sons Hospital Group,2,8,10,2,2,10,8,6,4,8,2,8,6,8,4,2,8,10,645,1,Medium
+253,Robinson-Walton Medical Center,6,2,10,4,6,6,4,8,2,6,2,6,10,10,8,10,4,4,645,1,Medium
+254,Thomas and Sons Hospital Group,8,8,10,2,2,4,6,8,6,8,4,2,2,6,8,4,10,10,645,1,Medium
+255,"Kramer, Bauer and Sharp Medical Center",2,10,6,10,6,10,4,4,2,6,4,10,4,4,6,8,4,8,645,4,Medium
+256,Moyer-Smith Medical Center,2,10,4,10,8,10,4,6,4,2,6,10,2,8,8,2,4,8,645,5,Medium
+257,Berry Inc Medical Group,6,4,6,2,6,8,6,6,6,6,2,6,4,10,8,6,8,8,645,1,Medium
+258,Gillespie Medical Group,2,2,8,4,6,8,8,6,2,8,2,10,8,8,6,6,8,6,645,3,Medium
+259,Hughes-Walton Medical Group,6,6,10,4,8,8,6,4,2,4,10,8,2,2,6,10,2,8,640,1,High
+260,"Beard, Browning and Allen Hospital Group",10,4,6,6,6,2,4,10,10,8,8,10,10,2,2,4,2,2,640,4,High
+261,Parks Hospital Group,2,6,6,2,6,4,6,10,8,10,2,10,10,2,8,2,10,2,640,4,High
+262,"Johnson, King and Fisher Medical Center",2,8,4,4,8,10,6,4,6,6,6,10,6,2,6,6,10,2,640,5,High
+263,Griffin-Cortez Medical Group,8,4,10,2,8,8,8,2,6,8,6,6,2,4,6,8,8,2,640,2,High
+264,Schwartz General Hospital,4,2,2,10,10,10,8,2,6,2,8,8,2,6,8,8,2,8,640,5,High
+265,Walker and Sons General Hospital,10,2,4,10,2,10,8,4,6,2,6,8,8,2,10,8,4,2,640,1,High
+266,"Kirby, Griffin and Tran General Hospital",2,2,4,10,2,10,2,4,8,8,6,4,10,4,8,6,8,8,640,3,High
+267,Ellis Hospital Group,4,2,8,8,4,10,4,4,6,10,8,4,4,10,4,10,4,2,640,3,High
+268,Harris-Lawson Medical Group,8,4,4,4,8,2,2,10,10,8,2,6,6,2,6,10,8,6,640,4,High
+269,Adams Hospital Group,2,2,6,10,4,10,4,2,8,6,10,8,2,6,8,8,2,8,640,1,High
+270,Smith-Salas Hospital Group,10,6,8,4,8,4,6,4,6,2,6,4,10,4,8,4,8,4,640,4,High
+271,Smith PLC Medical Group,4,4,6,8,4,8,8,10,4,8,6,8,2,4,6,8,6,2,640,5,High
+272,"Jones, Richardson and Stewart Medical Center",6,10,10,8,6,4,4,4,2,10,6,10,2,8,2,10,2,2,640,1,High
+273,Sanchez Inc Hospital Group,8,4,10,8,10,6,4,2,2,10,4,4,2,8,4,10,8,2,640,3,High
+274,Jones and Sons Medical Group,2,6,10,10,2,2,4,10,6,6,10,10,10,2,10,2,2,2,640,4,High
+275,"Lopez, Nelson and Taylor General Hospital",2,6,6,2,10,4,2,2,10,4,10,8,10,4,8,6,6,6,640,4,High
+276,Johnson-Brown Medical Center,2,2,8,6,10,6,10,2,6,10,2,10,2,8,6,6,8,2,640,1,High
+277,Watkins-Haynes General Hospital,10,4,6,10,6,6,2,8,6,6,4,6,4,4,2,8,10,4,640,3,High
+278,"Smith, Little and Bennett Medical Group",10,4,6,2,4,4,10,2,4,10,8,6,4,10,4,6,8,4,635,2,Medium
+279,Jones Inc General Hospital,10,4,6,2,2,10,2,4,8,8,8,6,6,6,2,4,8,10,635,3,Medium
+280,Haynes-Hill Medical Group,8,2,6,8,2,2,4,10,4,2,8,6,8,10,4,8,4,10,635,3,Medium
+281,Graham-Cortez Hospital Group,6,8,2,10,6,4,4,10,8,2,4,4,8,10,6,2,2,10,635,3,Medium
+282,Brewer PLC Medical Center,2,2,8,6,8,8,2,10,6,8,10,6,2,10,6,2,4,6,635,3,Medium
+283,"Rodriguez, Tapia and Boyd Medical Group",2,2,2,4,8,8,6,8,4,6,6,10,8,10,8,2,4,8,635,3,Medium
+284,"York, Christensen and Garcia Medical Center",6,10,8,8,10,6,2,4,2,4,4,4,2,8,6,2,10,10,635,4,Medium
+285,"King, Boyd and Crawford Medical Center",6,4,10,10,8,4,4,4,4,2,4,6,4,6,10,2,8,10,635,5,Medium
+286,Becker and Sons Medical Group,4,6,8,6,6,2,2,2,4,6,4,10,6,10,6,8,10,6,635,4,Medium
+287,Kim PLC Medical Center,2,4,10,6,2,6,6,4,10,4,2,4,4,10,8,4,10,10,635,4,Medium
+288,Jones-Mack Medical Center,4,4,2,8,4,10,4,6,4,4,10,2,4,10,8,4,8,10,635,4,Medium
+289,Cardenas Hospital Group,2,2,8,6,10,2,4,10,4,8,4,10,2,8,10,4,4,8,635,3,Medium
+290,Miller-Mejia General Hospital,4,4,6,6,2,6,4,8,6,6,10,6,6,10,2,8,8,4,635,1,Medium
+291,"Sampson, Barber and Cross Medical Center",8,8,6,4,6,4,2,2,8,8,4,8,6,10,8,4,4,6,635,4,Medium
+292,Williams-Brown General Hospital,10,10,2,4,2,2,4,8,4,10,8,4,2,6,8,6,6,10,635,5,Medium
+293,"Davis, Lowe and Brown Medical Group",2,8,4,8,8,4,8,6,6,6,2,4,10,10,4,2,4,10,635,4,Medium
+294,Thomas-Shaw Medical Center,8,2,4,10,6,10,6,10,6,4,2,4,8,6,4,4,4,8,635,4,Medium
+295,Avila Medical Center,4,4,8,8,8,6,10,2,6,8,4,2,10,2,2,4,6,10,630,1,High
+296,"Kline, Webb and Jones General Hospital",10,2,10,8,6,2,10,8,6,4,4,4,6,8,2,10,2,2,630,1,High
+297,Morris Medical Center,6,10,4,4,6,4,10,4,10,6,10,2,6,8,2,4,4,4,630,5,High
+298,"Huber, Bailey and Carter General Hospital",2,4,8,8,4,2,4,6,10,10,6,4,6,8,8,2,6,6,630,5,High
+299,Smith-Levy Hospital Group,2,6,10,8,2,8,2,4,10,8,4,4,10,6,6,2,10,2,630,3,High
+300,"Thompson, Reid and King Medical Center",6,8,6,8,2,6,8,6,10,6,6,2,6,6,4,4,8,2,630,3,High
+301,Downs-Rodriguez Medical Center,10,2,6,4,8,8,6,6,2,2,8,8,6,6,10,6,4,2,630,3,High
+302,Hughes-Johnson Hospital Group,6,4,6,2,2,6,10,8,8,10,8,6,2,2,8,10,2,4,630,4,High
+303,"Dorsey, Nguyen and Thompson Medical Center",6,6,8,10,2,4,8,2,10,2,2,10,2,2,8,6,8,8,630,3,High
+304,"Knight, Johnson and Murphy Hospital Group",10,6,8,6,6,4,2,6,6,2,4,4,8,4,4,10,10,4,630,1,High
+305,Vasquez and Sons Medical Center,10,2,8,8,4,10,2,10,10,2,2,8,10,4,4,2,4,4,630,1,High
+306,"Bennett, Fuller and Moore Medical Center",4,6,4,4,10,4,8,6,4,2,2,2,8,2,10,10,10,8,630,1,High
+307,Sullivan-Gilbert General Hospital,6,10,10,4,8,6,4,10,4,4,10,2,4,2,2,4,6,8,630,4,High
+308,Roberts-Jennings Medical Center,4,4,6,8,10,6,10,4,8,2,4,2,6,4,8,8,6,4,630,2,High
+309,"Gomez, Thomas and Beard General Hospital",10,4,2,4,6,8,8,8,8,6,2,2,4,8,6,10,2,6,630,4,High
+310,Robinson Medical Group,2,2,10,4,10,2,10,6,8,6,4,4,10,8,4,6,2,6,630,4,High
+311,Dunn-Santiago Hospital Group,2,2,4,8,8,10,10,2,10,6,6,2,6,4,4,10,6,4,630,2,High
+312,Harvey General Hospital,10,6,4,4,4,10,2,10,10,8,4,6,2,6,4,4,8,2,630,3,High
+313,Harris-Meyer Hospital Group,4,8,8,8,8,2,6,10,4,6,10,4,4,4,2,4,10,2,630,2,High
+314,"Fernandez, Sloan and Wright General Hospital",10,4,2,10,10,6,10,6,6,2,8,2,8,4,6,4,2,4,630,4,High
+315,Cook-Hayes General Hospital,6,8,8,4,4,2,2,4,4,10,2,6,10,4,4,6,10,10,625,3,Medium
+316,"Graham, Cooper and Burns General Hospital",6,10,8,2,10,2,6,2,8,10,2,2,4,6,4,6,6,10,625,5,Medium
+317,Shah Medical Group,4,6,6,10,2,6,2,8,6,6,4,2,4,10,4,4,10,10,625,1,Medium
+318,Graham-Yates Medical Group,6,4,6,8,6,4,2,4,8,8,2,8,8,8,8,2,4,8,625,2,Medium
+319,Santos-Ortega General Hospital,4,8,8,4,8,2,10,6,6,4,6,6,2,8,6,2,8,6,625,1,Medium
+320,Alexander Inc Medical Center,6,10,6,8,4,2,4,8,2,4,4,4,2,8,8,10,8,6,625,1,Medium
+321,"Woods, Davis and Campbell Medical Center",2,8,2,2,10,10,8,6,4,4,10,2,10,2,4,2,8,10,625,3,Medium
+322,Curry-Kent Medical Center,4,2,2,6,8,4,8,4,8,8,8,2,10,6,2,4,8,10,625,2,Medium
+323,Molina-Fritz Hospital Group,2,4,8,2,4,6,2,4,4,2,8,10,10,10,4,4,10,10,625,5,Medium
+324,Greene-Christensen Medical Group,8,8,6,4,8,2,4,10,2,8,8,8,2,6,6,2,6,6,625,3,Medium
+325,"Chapman, Diaz and Reynolds General Hospital",6,10,4,2,10,6,2,6,4,8,2,10,6,4,2,4,10,8,625,4,Medium
+326,Jones PLC Hospital Group,10,8,4,2,6,6,8,8,2,2,6,2,10,2,10,4,10,4,625,4,Medium
+327,Reed Hospital Group,8,6,2,2,4,10,6,10,2,8,6,4,10,8,2,6,2,8,625,2,Medium
+328,Banks-Taylor Medical Group,2,10,8,4,8,4,2,8,6,8,10,2,6,8,2,6,6,2,620,4,High
+329,"Chavez, Ellis and Herrera Hospital Group",8,8,6,10,4,2,6,8,2,4,10,8,4,2,8,4,2,6,620,1,High
+330,"Barnes, Mcintyre and Herrera Hospital Group",4,2,10,6,4,10,8,6,2,10,4,6,10,2,4,4,6,4,620,4,High
+331,Mcconnell-Barnett General Hospital,6,6,6,6,10,8,8,2,8,10,6,2,2,4,4,6,6,2,620,1,High
+332,Cooper General Hospital,6,2,6,6,2,2,10,6,4,6,4,10,2,8,10,6,8,4,620,2,High
+333,Hendrix-Moore General Hospital,4,4,8,6,6,4,10,2,8,8,8,6,6,8,6,4,2,2,620,5,High
+334,"Stanley, Hill and Shelton Medical Group",6,2,8,4,10,8,2,6,2,6,6,4,4,2,10,10,10,2,620,5,High
+335,Reed and Sons Hospital Group,4,10,2,10,4,10,10,2,10,4,8,2,2,2,10,8,2,2,620,1,High
+336,"Carr, French and Adams General Hospital",4,10,2,4,4,10,10,10,4,8,8,4,2,2,8,4,2,6,620,4,High
+337,Hamilton-Simon Hospital Group,2,2,10,6,6,6,8,4,4,10,8,8,10,4,6,2,4,2,620,1,High
+338,Wilson-James Medical Center,10,4,8,10,2,4,6,6,8,2,4,2,2,10,10,2,10,2,620,4,High
+339,Freeman Medical Group,8,2,10,8,8,4,8,4,10,4,4,4,2,8,6,4,6,2,620,3,High
+340,"Jones, Brown and Garcia Hospital Group",4,6,8,10,2,2,6,8,4,4,2,4,4,10,8,8,4,8,615,3,Medium
+341,Brown-Mueller Medical Group,6,2,4,4,8,4,2,4,10,6,8,2,8,10,10,2,4,8,615,2,Medium
+342,Herrera Inc Medical Group,6,6,4,2,2,6,8,6,2,6,6,8,10,8,4,8,4,6,615,1,Medium
+343,King PLC Hospital Group,10,8,6,2,2,4,2,6,6,8,10,2,4,10,6,6,6,4,615,5,Medium
+344,Mckenzie-Whitaker Hospital Group,8,2,2,8,4,10,4,6,4,2,2,10,6,4,10,6,6,8,615,4,Medium
+345,Dodson-Hopkins Medical Center,8,8,6,2,8,2,6,8,8,2,6,2,2,8,4,6,6,10,615,5,Medium
+346,Hale-Potter Medical Group,6,6,4,2,10,6,2,2,10,10,4,6,6,8,8,2,2,8,615,1,Medium
+347,Sanchez-Reyes Medical Group,8,6,6,8,2,4,4,4,4,4,8,8,6,4,6,4,6,10,615,2,Medium
+348,Hernandez Medical Center,6,8,8,6,8,2,2,2,2,8,2,10,8,6,4,6,4,10,615,1,Medium
+349,Howell and Sons General Hospital,8,4,6,4,4,6,2,8,2,2,8,8,2,10,4,6,10,8,615,3,Medium
+350,"Richardson, Wallace and Nguyen General Hospital",10,6,6,10,2,2,2,4,10,4,2,8,4,10,6,6,4,6,615,3,Medium
+351,White and Sons General Hospital,10,4,8,6,6,10,2,2,10,6,10,8,4,6,2,2,2,2,610,3,High
+352,Gibson-Deleon Medical Group,2,10,6,8,2,10,2,6,6,10,10,2,4,4,4,2,10,2,610,2,High
+353,Bryant-Stanton Hospital Group,8,2,10,4,4,8,8,6,10,8,4,2,4,2,2,6,6,6,610,2,High
+354,Harrison-Rodriguez General Hospital,10,6,10,2,6,8,4,2,4,2,6,8,10,2,4,10,2,4,610,4,High
+355,Bennett Inc Medical Center,4,6,6,10,6,2,2,4,10,10,6,8,8,2,4,2,2,8,610,1,High
+356,Green-Ramos Medical Group,6,10,10,4,6,4,6,2,8,6,2,6,4,2,10,2,10,2,610,2,High
+357,"Zimmerman, Nelson and Rose Medical Center",6,6,8,6,4,6,4,10,2,4,2,2,10,2,10,6,10,2,610,3,High
+358,"Le, Williams and Smith Medical Center",8,4,2,8,4,8,2,10,6,2,4,8,2,8,6,8,8,2,610,3,High
+359,Richardson PLC General Hospital,4,10,6,4,10,4,2,10,8,4,8,4,2,2,4,4,6,8,610,5,High
+360,Davis and Sons Medical Center,4,2,8,10,6,2,6,6,8,2,4,6,4,8,8,4,10,2,610,1,High
+361,Jackson and Sons Medical Group,8,2,6,10,6,4,10,8,4,2,10,2,4,2,6,4,6,6,610,2,High
+362,Allen Medical Group,4,2,10,4,10,4,10,2,10,6,4,8,4,4,6,2,4,6,610,4,High
+363,"Owens, Taylor and Gillespie General Hospital",6,6,6,10,4,4,2,10,8,2,2,8,8,2,8,8,4,2,610,4,High
+364,"Myers, Adams and Shaw Medical Center",10,10,8,6,4,4,10,2,6,2,10,2,2,6,8,4,2,4,610,5,High
+365,"Stephens, Moran and Schultz Hospital Group",4,8,4,8,10,2,6,6,6,2,2,6,2,2,10,10,2,10,610,2,High
+366,Smith-Wallace Medical Group,6,8,4,2,4,10,6,8,4,6,6,10,4,4,4,6,2,6,605,2,Medium
+367,Guzman General Hospital,6,8,6,8,10,2,2,2,2,6,10,8,2,2,4,2,10,10,605,5,Medium
+368,"Ingram, Tran and Mclean Hospital Group",10,10,2,4,10,2,2,2,4,4,6,8,6,6,10,4,8,2,605,3,Medium
+369,"Preston, Sheppard and Weaver Medical Center",6,6,6,6,8,4,6,6,4,2,6,2,8,10,4,8,6,2,605,5,Medium
+370,Calderon-Garcia Hospital Group,6,6,10,8,4,4,6,4,2,6,6,4,6,10,2,4,6,6,605,2,Medium
+371,Hanson and Sons Medical Group,4,10,6,4,6,2,4,4,8,6,4,4,10,10,2,4,4,8,605,1,Medium
+372,"Bright, Herrera and Contreras Medical Group",4,8,2,2,8,10,2,4,4,10,8,2,8,4,2,10,6,6,605,5,Medium
+373,Miles Inc Medical Center,10,4,2,10,6,6,4,8,6,4,2,6,8,10,4,2,6,2,605,2,Medium
+374,"Jackson, Petersen and Edwards Medical Center",6,10,8,8,4,10,4,2,6,6,4,2,6,4,6,2,4,8,605,1,Medium
+375,Ramos Hospital Group,6,2,4,4,10,10,2,2,8,2,6,8,4,10,4,8,4,6,605,1,Medium
+376,Obrien Medical Center,2,8,2,6,10,2,6,4,2,2,2,10,10,6,10,10,6,2,605,5,Medium
+377,"Haley, Pierce and Ramirez Medical Center",10,6,4,6,6,6,2,6,6,6,2,2,2,8,10,4,8,6,605,1,Medium
+378,Webb Inc Hospital Group,6,4,4,6,6,2,4,10,4,6,4,6,4,10,2,2,10,10,605,1,Medium
+379,Mills-Diaz General Hospital,2,2,6,8,4,10,6,4,2,2,10,10,8,6,4,2,10,4,605,3,Medium
+380,Miller-Grimes Medical Center,2,6,2,4,2,6,6,8,2,10,10,4,8,10,2,6,4,8,605,5,Medium
+381,Burton-Garcia Hospital Group,10,2,8,2,8,2,4,2,10,4,6,2,6,8,8,8,2,6,600,2,High
+382,Cochran Hospital Group,2,6,6,6,10,10,2,4,8,10,2,10,6,2,6,4,2,2,600,1,High
+383,Mcclure-Glass Medical Group,8,4,2,6,8,2,8,8,8,4,2,6,6,4,10,6,2,4,600,5,High
+384,Cobb-Burton Hospital Group,2,4,8,8,4,6,6,4,8,6,8,2,4,4,10,6,4,4,600,1,High
+385,George-Callahan Hospital Group,4,4,6,6,10,2,2,6,10,8,4,4,10,6,2,6,4,4,600,2,High
+386,Foster-Benson Hospital Group,8,2,2,8,8,4,4,8,10,2,8,4,4,8,2,6,8,2,600,2,High
+387,Miller and Sons Medical Group,4,8,6,4,2,6,4,8,8,8,8,2,8,2,4,4,4,8,600,3,High
+388,"Price, Turner and Cline Medical Center",4,2,10,6,2,6,10,2,4,6,2,6,8,2,6,8,6,8,600,4,High
+389,Thomas General Hospital,10,2,2,8,2,10,6,10,8,8,4,4,8,2,2,4,6,2,600,4,High
+390,"Stafford, Gentry and Leonard General Hospital",8,2,6,10,2,2,6,6,4,10,2,2,10,4,10,6,6,2,600,4,High
+391,Robinson Hospital Group,2,6,4,8,6,10,2,6,10,8,2,4,2,8,4,2,10,4,600,5,High
+392,Whitaker-Davis Medical Center,10,2,8,2,10,6,4,6,4,2,6,2,6,6,8,4,6,6,600,3,High
+393,Brown Medical Center,2,6,10,4,4,4,10,6,2,4,6,6,2,4,10,4,6,8,600,5,High
+394,Sanchez and Sons Hospital Group,6,4,2,4,8,8,2,4,4,10,6,10,2,6,6,6,2,8,595,3,Medium
+395,Hood Medical Group,8,2,2,6,6,10,6,6,6,6,2,10,4,6,2,2,4,10,595,4,Medium
+396,Shaw-Morrison Medical Center,6,10,2,6,10,4,6,6,2,2,4,2,2,10,6,10,4,6,595,3,Medium
+397,Reynolds-Walker Medical Center,8,4,6,2,6,6,4,6,4,6,8,2,10,4,6,4,2,10,595,2,Medium
+398,"Kline, Ortiz and Spencer General Hospital",4,10,2,6,2,4,10,6,6,8,10,2,10,4,2,4,4,4,595,1,Medium
+399,Pearson-Richards Medical Center,2,10,10,10,2,10,2,4,2,6,4,6,6,6,2,2,4,10,595,3,Medium
+400,"Wells, Goodwin and Wade Hospital Group",2,4,8,2,6,6,6,4,4,2,2,10,8,8,8,4,4,10,595,3,Medium
+401,Rios-Hernandez Medical Group,6,6,8,10,6,8,2,2,4,10,6,2,4,6,4,2,2,10,595,2,Medium
+402,Summers Hospital Group,4,10,2,8,2,8,2,4,6,6,2,10,10,10,4,2,6,2,595,1,Medium
+403,Garrett-Moore Medical Group,4,2,4,6,8,2,2,4,4,8,10,6,2,8,8,4,10,6,595,2,Medium
+404,"Thomas, Long and Hoffman Medical Center",4,6,2,8,4,8,4,4,6,6,10,2,10,4,2,2,6,10,595,1,Medium
+405,"Dalton, George and Hodge General Hospital",8,8,4,4,10,4,10,4,8,4,2,2,6,2,8,4,6,2,590,1,High
+406,Frederick PLC Medical Group,4,8,8,4,10,2,2,6,8,4,4,8,2,4,2,6,10,4,590,2,High
+407,Bush Inc General Hospital,2,6,4,10,8,2,2,6,8,4,6,10,6,2,2,10,6,2,590,3,High
+408,"Allen, Sanchez and Robles General Hospital",4,2,4,10,4,2,2,8,10,8,8,4,8,2,8,4,6,2,590,4,High
+409,Lee-Stevens Medical Group,8,4,2,6,8,2,4,8,6,2,6,2,6,8,8,6,6,4,590,4,High
+410,"Thomas, Rogers and Jordan Medical Center",4,4,4,8,6,2,4,6,2,4,6,2,4,4,8,10,10,8,590,5,High
+411,"Harvey, Petersen and Sharp Medical Group",2,6,8,10,8,6,4,2,4,4,2,4,2,4,10,8,4,8,590,5,High
+412,Douglas-Martin Medical Center,2,8,8,6,6,6,6,4,6,8,4,4,2,4,6,4,8,4,590,3,High
+413,Mcdaniel-Wright Medical Center,8,4,6,6,4,4,2,2,6,2,6,8,6,4,10,8,4,6,590,2,High
+414,Vasquez-Martin Medical Center,8,4,4,6,2,2,10,8,2,10,2,2,6,6,4,10,6,4,590,2,High
+415,Wolf Hospital Group,2,2,10,4,4,6,2,10,10,8,2,6,2,6,8,6,4,4,590,4,High
+416,Reeves and Sons Medical Group,2,10,2,6,2,6,6,6,8,4,8,2,4,4,10,2,4,10,585,3,Medium
+417,Vaughn-Parker General Hospital,2,8,8,6,6,4,6,8,4,4,2,10,4,8,4,2,2,8,585,2,Medium
+418,Dean-Hayden General Hospital,8,10,8,2,2,6,4,6,2,6,10,4,4,4,2,4,4,10,585,2,Medium
+419,Yates-Waller General Hospital,4,6,4,2,4,2,4,4,10,2,4,2,10,10,8,6,4,10,585,4,Medium
+420,Lopez Hospital Group,2,4,6,4,4,4,6,10,4,2,10,8,4,6,6,6,2,8,585,5,Medium
+421,"Perez, Sims and Smith General Hospital",2,10,2,8,4,4,6,4,2,4,10,4,4,6,4,10,4,8,585,5,Medium
+422,Baker Inc General Hospital,8,2,2,8,2,8,2,6,2,4,10,6,4,6,10,4,6,6,585,2,Medium
+423,Davis-Thomas Medical Center,4,10,2,2,6,6,2,4,8,4,10,6,6,10,2,10,2,2,585,3,Medium
+424,Meyer Medical Group,10,6,2,4,2,4,6,2,2,8,4,6,6,8,6,8,4,8,585,1,Medium
+425,Owen-White Hospital Group,4,2,4,2,10,8,6,2,2,10,4,2,8,10,6,10,2,4,585,1,Medium
+426,Galvan-Morales General Hospital,4,2,10,4,8,2,10,10,2,4,6,2,4,4,2,6,8,6,580,5,High
+427,Cochran General Hospital,2,2,10,2,4,10,10,2,4,6,4,2,10,6,4,8,4,4,580,5,High
+428,"Perez, Sherman and Nichols Medical Center",8,6,2,2,4,2,2,8,10,4,6,6,2,6,8,8,8,2,580,4,High
+429,Jackson Medical Group,2,4,10,6,8,8,2,2,8,2,8,2,6,6,8,6,2,4,580,2,High
+430,Baker Medical Center,6,4,8,8,8,6,2,2,10,2,2,4,4,6,6,6,4,6,580,1,High
+431,Young-Allen General Hospital,2,10,6,4,10,6,4,2,6,2,8,2,4,2,2,10,6,8,580,3,High
+432,Huang Hospital Group,4,6,2,8,6,2,6,8,8,4,6,6,6,2,4,2,6,8,580,4,High
+433,"Bailey, Swanson and Tran Medical Center",4,10,10,2,10,8,2,2,2,6,2,8,4,2,6,10,4,2,580,4,High
+434,"Johnson, Oconnor and Hicks Medical Center",2,2,4,6,2,2,2,10,8,10,10,2,2,6,8,6,8,4,580,1,High
+435,Stevenson-Herring Medical Center,6,10,2,2,4,8,6,8,8,4,4,10,4,2,2,4,8,2,580,4,High
+436,Roberts-Morgan Medical Group,8,6,2,4,2,8,2,2,10,8,6,6,10,2,6,2,8,2,580,3,High
+437,Case Inc General Hospital,8,2,8,2,8,8,2,8,2,6,2,2,4,6,10,6,6,4,580,1,High
+438,Hobbs-Casey Medical Group,10,6,4,2,2,8,8,6,2,4,2,2,8,4,6,8,4,8,575,1,Medium
+439,Bentley PLC Medical Group,6,10,2,8,10,2,6,6,2,8,4,2,2,2,4,2,10,8,575,5,Medium
+440,"Sosa, Walker and Phillips Medical Center",4,4,6,8,6,2,4,2,2,8,4,6,6,8,10,2,10,2,575,1,Medium
+441,"Hogan, Moore and Stanton General Hospital",4,2,4,4,8,6,6,4,2,4,2,8,2,8,8,8,4,10,575,4,Medium
+442,Molina Medical Group,10,2,6,6,2,6,8,10,2,6,6,2,6,6,2,6,2,6,575,5,Medium
+443,Daugherty and Sons Medical Center,10,6,2,6,2,6,2,6,4,2,4,4,10,2,2,8,8,10,575,1,Medium
+444,"Duran, Collins and Nelson Hospital Group",8,4,8,4,2,6,6,2,4,10,4,6,6,10,2,2,8,2,575,5,Medium
+445,Kennedy-Collins Hospital Group,2,8,10,2,6,10,8,2,4,4,2,6,4,10,6,2,2,6,575,1,Medium
+446,Vasquez PLC General Hospital,10,8,2,6,8,4,2,6,8,4,2,4,4,2,10,2,8,2,570,3,High
+447,Weber-Carter Hospital Group,4,4,10,8,6,6,2,4,4,6,8,4,2,4,2,10,4,4,570,2,High
+448,Ramirez-Walker Hospital Group,6,2,4,8,4,6,8,2,2,6,2,4,8,2,10,8,6,4,570,3,High
+449,Pineda Medical Group,2,2,10,2,2,6,6,8,10,6,8,2,6,8,2,2,8,2,570,2,High
+450,Morgan-Dixon Medical Center,8,4,4,2,10,4,6,2,2,10,4,6,6,4,8,4,2,6,565,5,Medium
+451,Clark Inc Medical Group,4,6,8,2,2,4,2,4,6,10,2,4,4,8,10,6,2,8,565,4,Medium
+452,Burke-Hayes Hospital Group,10,10,4,6,4,4,2,4,4,4,10,4,2,10,6,4,2,2,565,5,Medium
+453,"Lambert, Barron and Riggs Hospital Group",10,8,4,8,2,6,6,6,2,2,2,10,4,2,4,4,4,8,565,5,Medium
+454,"Turner, Curry and Casey Medical Center",2,4,8,8,6,10,4,2,6,8,2,8,6,10,2,2,2,2,565,3,Medium
+455,Leonard and Sons General Hospital,8,4,2,2,2,6,10,2,4,2,4,8,4,10,4,2,8,10,565,2,Medium
+456,"Stevens, Munoz and Miller General Hospital",6,2,6,2,2,6,6,4,2,4,4,10,6,8,6,10,6,2,565,1,Medium
+457,Ramirez-Costa Hospital Group,4,2,4,2,10,4,4,4,2,10,2,2,4,8,6,10,4,10,565,4,Medium
+458,Ward-Jacobs Hospital Group,8,2,6,4,8,2,8,2,8,2,2,6,6,2,2,4,10,8,560,5,High
+459,Peterson-Rios Hospital Group,6,4,6,4,2,8,6,4,4,6,4,2,2,6,4,10,10,2,560,2,High
+460,"Smith, Monroe and Miller Medical Center",6,2,4,4,8,6,6,8,10,2,8,2,2,6,2,4,8,2,560,3,High
+461,Weaver-Johnson Medical Group,4,2,4,6,2,6,6,10,10,6,6,2,4,4,2,4,6,6,560,5,High
+462,Hinton-Wheeler Medical Center,2,2,8,2,10,8,6,8,4,10,4,2,2,4,6,2,4,6,560,5,High
+463,Barnes and Sons Medical Group,4,2,2,6,4,2,4,2,2,6,8,10,10,4,4,4,8,8,555,4,Medium
+464,Carey Inc Medical Center,8,6,6,4,6,4,4,2,4,10,4,4,4,6,4,6,4,4,555,4,Medium
+465,"Zimmerman, Peterson and Scott Medical Group",4,4,2,2,4,6,10,4,2,6,8,10,8,6,2,4,6,2,555,1,Medium
+466,Sanchez-Morris Medical Group,6,10,4,6,6,6,6,2,2,8,2,2,4,2,10,2,6,6,555,3,Medium
+467,Garrett Hospital Group,6,2,4,2,2,8,4,8,2,6,6,2,8,6,4,10,6,4,555,2,Medium
+468,"Williams, Rice and Macias Hospital Group",4,4,10,2,2,8,6,4,8,4,2,4,6,2,2,4,6,10,550,4,High
+469,Gill-Smith General Hospital,8,2,10,2,6,10,2,2,2,4,8,6,2,4,10,2,4,4,550,3,High
+470,Tucker and Sons Hospital Group,8,6,10,4,2,2,4,4,6,6,8,2,4,4,2,2,10,4,550,2,High
+471,"Howard, Hall and Arnold Medical Group",2,6,6,2,8,4,2,2,6,4,10,6,2,6,4,8,8,2,550,2,High
+472,Rich-Stevens Medical Center,8,8,6,2,8,4,4,10,10,8,4,2,2,2,4,2,2,2,550,1,High
+473,Johnson-Jones Medical Group,8,2,2,8,4,4,8,8,6,2,4,4,2,10,4,4,6,2,550,1,High
+474,Ellis Medical Center,4,2,4,6,6,4,2,2,8,2,8,10,4,2,4,8,4,8,550,3,High
+475,Cook-Murphy Medical Group,6,6,6,4,2,2,2,6,4,2,2,2,6,10,8,8,10,2,545,5,Medium
+476,"Daniels, Moreno and Arellano General Hospital",4,10,10,2,4,6,6,2,4,4,2,2,6,10,10,2,2,2,545,2,Medium
+477,"Weaver, Watson and Bradford General Hospital",10,2,2,2,10,6,6,4,6,6,2,8,4,4,4,6,2,2,540,4,High
+478,Mccoy Medical Group,8,2,8,4,4,8,4,4,4,6,2,4,2,4,6,8,6,2,540,3,High
+479,"Anderson, Miller and Snyder Hospital Group",2,2,2,4,6,2,10,4,4,4,8,8,8,2,6,4,6,4,540,1,High
+480,Martin General Hospital,2,10,2,10,2,10,2,2,2,2,8,2,6,2,6,8,8,2,540,2,High
+481,"Ho, Clayton and Leonard Hospital Group",2,2,2,2,4,8,6,2,4,2,4,8,8,4,10,2,10,6,535,3,Medium
+482,Shaw-Weiss Medical Group,4,8,4,6,4,10,4,2,2,2,2,2,2,8,2,4,10,10,535,1,Medium
+483,"Herrera, Elliott and Andrews General Hospital",2,6,2,8,2,6,2,2,4,2,6,2,6,10,6,6,10,4,535,4,Medium
+484,"Gardner, Clark and White Hospital Group",2,6,8,4,4,10,4,2,2,2,4,2,10,2,4,6,8,6,535,4,Medium
+485,Malone-Perkins Medical Center,6,10,2,2,2,6,2,8,2,4,6,8,8,8,6,2,2,2,535,4,Medium
+486,"Hansen, Williams and Larson General Hospital",10,2,2,2,4,4,4,2,4,6,4,10,2,6,8,2,6,8,535,2,Medium
+487,Shaw-Cooper General Hospital,8,2,2,2,2,4,8,8,10,2,2,2,2,10,6,2,2,10,525,5,Medium
+488,Howard PLC Medical Center,10,2,6,8,4,2,4,2,2,6,2,6,2,8,6,4,6,4,525,4,Medium
+489,Rogers-Taylor Hospital Group,4,6,2,4,4,8,4,2,4,4,6,10,6,10,2,2,4,2,525,4,Medium
+490,"Cochran, Hubbard and Murphy Medical Group",4,8,4,2,2,2,6,2,4,8,8,4,10,6,2,2,8,2,525,2,Medium
+491,Thompson Medical Center,6,6,8,6,2,2,4,6,6,4,6,6,4,4,6,2,2,2,520,2,High
+492,Miller-Miller Medical Center,4,2,2,4,8,6,4,6,2,8,2,2,10,6,2,6,4,4,515,4,Medium
+493,Lewis Medical Group,2,2,2,4,2,8,2,2,4,8,6,4,10,4,8,6,2,4,505,4,Medium
+494,Harmon-Hendrix Medical Center,2,2,10,6,2,4,4,10,4,2,2,2,4,4,4,4,6,6,500,4,High
+495,"Powell, Sanchez and White Medical Group",6,2,10,8,2,4,2,6,2,10,2,2,10,2,4,2,2,2,500,3,High
+496,"Yang, Douglas and Benson Medical Group",6,2,8,4,2,2,4,2,2,6,2,10,4,4,4,4,8,2,490,4,High
+497,Stevens-Shea Medical Center,8,4,2,2,2,4,2,2,2,6,4,6,2,6,4,10,4,6,485,5,Medium
+498,Pratt Inc Medical Center,2,8,6,2,4,4,2,6,4,2,4,4,8,6,4,2,4,2,475,1,Medium
+499,"Snyder, Howard and Johnston Medical Center",2,2,2,10,2,2,4,4,2,6,6,4,2,6,2,2,8,6,460,3,Low
+500,Perez Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+501,Floyd-Parker Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+502,"Day, Owens and Rangel Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+503,"Wood, Smith and Anderson Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+504,Spencer Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+505,Hinton Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+506,Patterson-Baker Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+507,Ortiz General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+508,Smith PLC Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+509,Brown-Brown Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+510,Stone Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+511,Davis-Yoder Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+512,"Howell, Sanchez and Smith Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+513,Powell and Sons General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+514,"Blevins, Arnold and Flores Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+515,"Henry, Leon and Lucero Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+516,Wagner PLC Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+517,Smith-Ruiz Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+518,Velazquez Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+519,"Morris, Thompson and Cordova General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+520,"Gutierrez, Hawkins and Moss Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+521,"Perez, Mitchell and Reyes Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+522,Phillips and Sons Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+523,Payne Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+524,"Johnson, Cabrera and Garcia Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+525,"Carney, Mooney and Haynes Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+526,"Pineda, Humphrey and Collins Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+527,"Drake, Grant and Oneill Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+528,"Perry, Morris and Norman Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+529,"Meyer, Mullins and Whitehead General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+530,"Fletcher, Jones and Jackson Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+531,Ramirez-Garcia Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+532,Baker-Combs Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+533,Christian Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+534,Morgan Inc Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+535,Gill-Vasquez Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+536,"Decker, Hall and Brown Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+537,"Hughes, Davidson and Mckinney Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+538,Scott-Lopez Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+539,Lopez and Sons General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+540,Moore-Garcia Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+541,Rodriguez-Williams Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+542,"Garrison, Mcgrath and Hill General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+543,"Robinson, Herring and Moreno General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+544,Sellers-Arias Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+545,Moore Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+546,"Crane, Gibbs and Mason General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+547,Jones-Cohen Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+548,Fields Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+549,Russell-Cole General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+550,"Benitez, Flores and Johnson Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+551,"Gilmore, Woods and Baker Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+552,Miller-Mckenzie Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+553,King-Newton Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+554,Hill Inc Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+555,"Jones, Morales and Baker Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+556,"Trevino, Carey and Estrada General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+557,Davies-Ramsey Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+558,Summers PLC Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+559,Smith Inc General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+560,Boyer-Davis Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+561,Smith Inc General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+562,Hall-Austin Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+563,Franco Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+564,Martin Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+565,Greer-Larsen Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+566,Dean-Cortez General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+567,Gill and Sons Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+568,Cardenas General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+569,Doyle-Huang Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+570,Douglas-Guzman General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+571,"Miller, Lloyd and Lopez General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+572,"Moore, Bailey and Carter Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+573,Rojas-Newton General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+574,"Gillespie, Perkins and Martinez Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+575,Powers-Jordan General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+576,Gomez-Chen Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+577,Mason-Williams General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+578,Jacobs-Ward Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+579,"Murphy, Cabrera and Ross General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+580,Perez-Beck Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+581,"Romero, Owens and Velez Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+582,Anderson-Thomas Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+583,Newman PLC Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+584,Chambers Inc Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+585,Silva and Sons General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+586,Charles General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+587,"Mcdaniel, Moore and Reid General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+588,"George, Schultz and Cruz Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+589,"Frazier, Robinson and Morales General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+590,"Henderson, Clark and Solomon Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+591,Reynolds-Bruce Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+592,Wise and Sons Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+593,Robinson and Sons Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+594,Black-Raymond Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+595,"Crosby, Jones and Hanna Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+596,Garcia-Rocha Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+597,Hartman General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+598,Bruce-Page Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+599,Hunt Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+600,Johnson Inc Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+601,Dougherty PLC General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+602,Morris General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+603,Burns-Jones Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+604,White Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+605,Johnson-Perez Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+606,"Wilson, Rodriguez and Patrick General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+607,Obrien Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+608,"Brown, Cook and Nelson Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+609,Singh Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+610,Yu-Beasley Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+611,Harris-Griffith Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+612,Jackson Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+613,"Rivera, Carrillo and Whitney Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+614,Henderson General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+615,Peterson-Todd Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+616,"Lopez, Mays and Taylor Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+617,Atkins-Hill Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+618,Myers-Parrish General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+619,Ball-Fritz General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+620,Mccoy-Peters Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+621,Mendoza-Rush Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+622,"Hall, Patrick and Torres Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+623,Tran and Sons Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+624,Livingston Inc Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+625,Brooks Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+626,Anderson PLC General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+627,"Newman, Sanchez and Greene Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+628,Kennedy-Smith General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+629,Fleming Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+630,Vargas-Ochoa Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+631,Hawkins-Hurst Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+632,"Cruz, Weaver and Schneider Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+633,Bowman General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+634,Moore-Rojas Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+635,Jones Inc Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+636,"Lopez, Rojas and Ford General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+637,Lopez-Mcclure Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+638,"Anderson, Young and Baker Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+639,Garcia and Sons General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+640,Clark-Franco Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+641,"Horne, Palmer and Johnson General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+642,"May, Lucero and Walton Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+643,Alvarado Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+644,Bell Inc Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+645,"Odom, Rowe and Stewart General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+646,Ruiz-Carter Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+647,"Adams, Walsh and Stewart General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+648,Young PLC Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+649,"Roth, Allison and Robertson Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+650,"Mcneil, Villarreal and West Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+651,Jackson General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+652,Ellis Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+653,Allen-Nguyen Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+654,Brown-Ellis Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+655,Nelson-Howell Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+656,"Smith, Owens and Sanchez Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+657,Bradshaw-Reynolds Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+658,Aguilar Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+659,Cobb Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+660,Smith-Mcfarland Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+661,Obrien-Fuller Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+662,Huynh and Sons General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+663,Rivera Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+664,Black-Frank Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+665,"Gonzales, Moore and Ferrell Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+666,"Lee, Bell and King Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+667,Rosales Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+668,Thomas Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+669,"Davis, Novak and Roberts Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+670,"Jenkins, Meyer and Banks Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+671,George PLC Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+672,Bentley Inc Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+673,Evans-Ramirez Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+674,"Bullock, Perez and Allen Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+675,"Vasquez, Noble and Reynolds Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+676,Thompson-Goodwin Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+677,Carlson Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+678,Townsend Inc General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+679,"Ortiz, Simpson and Rodgers Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+680,Edwards General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+681,Martin-Nelson Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+682,Roman-Banks General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+683,Quinn Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+684,"Peterson, Smith and Weber Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+685,Bell-Nguyen Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+686,"Nguyen, Rivera and Franklin General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+687,Sanchez-Sloan Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+688,Mcdaniel and Sons Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+689,Rangel-Turner General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+690,Atkins-Nguyen Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+691,Mcbride Inc Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+692,"Taylor, Robertson and Lopez General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+693,Hogan-Jennings Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+694,Miller-Gaines Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+695,Kline PLC Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+696,Richards-Price General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+697,Ruiz Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+698,"Hubbard, Torres and Crane Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+699,"Collins, Garcia and Jones Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+700,"Welch, Henderson and Munoz Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+701,"Thompson, Cole and Glenn Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+702,Stokes-Nelson Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+703,Robinson-Hoffman Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+704,Long-Smith Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+705,Thomas-Allen Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+706,Garner-Stewart Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+707,"Lewis, Hoffman and Williams General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+708,"Fowler, Wilcox and Chavez General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+709,Cain Inc General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+710,Spencer-Owens Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+711,Walters-Johnson Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+712,Howard PLC General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+713,"Franco, Boyd and Wilson General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+714,Kim-Munoz Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+715,"Hood, Camacho and Cochran Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+716,Cook-Scott Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+717,Lee and Sons General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+718,Roy-Macdonald Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+719,Sweeney-Molina Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+720,Woods-Pruitt Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+721,Lopez Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+722,"Gregory, Daniels and Cooper Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+723,Ruiz-Butler General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+724,Andrews Inc General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+725,Diaz General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+726,Lucas Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+727,Wilson-Kelley Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+728,"Clayton, Carpenter and Frey Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+729,"Gonzales, Hudson and Miller Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+730,Bell Inc Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+731,"Fitzgerald, Russell and Stokes General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+732,"Robertson, Johnston and Warren Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+733,Lee PLC Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+734,"Green, Jensen and Brown Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+735,Brewer-Flores Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+736,"Carlson, Smith and Ferguson Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+737,"Peck, Hall and Diaz General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+738,Schaefer-Brown Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+739,Foster-Thompson General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+740,Davis Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+741,"Nash, Duncan and Jimenez General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+742,"Fisher, Hoffman and Martin General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+743,Camacho Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+744,"Donaldson, Wells and Miller Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+745,Walker PLC Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+746,Horton PLC Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+747,Gardner Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+748,Smith Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+749,Cortez-Duran Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+750,"Thompson, Keller and Bailey General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+751,Hansen-Baker Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+752,Mcgee Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+753,Torres-Hart General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+754,Taylor-Reed Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+755,"Martinez, Patterson and Smith General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+756,"Stokes, Johnson and Morris General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+757,Ruiz PLC Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+758,Conley Inc General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+759,Mckay-Hanson Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+760,Martinez-Stone Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+761,Davis-Wilkerson Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+762,Williams-Cooper General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+763,"Reynolds, Lindsey and Gibbs General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+764,"Hoffman, Richardson and Miller General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+765,Boyer Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+766,Hicks-Thomas General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+767,"Tran, Kane and Wood Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+768,Jones Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+769,"Lee, Coleman and Michael Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+770,Williams Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+771,George Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+772,Hill-Wilson Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+773,Brown-Bowen Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+774,Robertson-Hinton General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+775,Reed-Brown Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+776,"Hernandez, Price and Leon Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+777,Burns-Moore Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+778,Porter Inc Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+779,"Davis, Yates and Wiley Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+780,"Brooks, Lewis and Lowe Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+781,Nelson-Webb General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+782,Hernandez-Lewis Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+783,Hancock-Jones Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+784,"Nelson, Thompson and Higgins General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+785,Rodriguez Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+786,Delgado-Bowman Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+787,Garcia Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+788,Cline-Malone Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+789,"Reeves, Hernandez and Nunez General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+790,"Smith, Hartman and Mcknight General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+791,Long Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+792,"Evans, Willis and Bridges General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+793,Fitzgerald Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+794,"Lee, Jacobson and Hickman Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+795,Mason PLC Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+796,Smith General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+797,Cain-Jones General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+798,Campbell General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+799,"Bentley, Young and Davis Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+800,Nelson-Ali Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+801,Johnson PLC Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+802,Lowe Inc Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+803,Murphy-Robles Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+804,Wood Inc Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+805,Wright-Harrison Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+806,Garcia-Clayton Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+807,Phillips PLC General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+808,"Edwards, Chandler and Hughes General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+809,Nguyen-Eaton General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+810,Hall Inc Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+811,Green-Caldwell Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+812,Cross-Morris Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+813,Waters-Pierce Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+814,Carpenter-Myers Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+815,"Savage, Jackson and Williams Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+816,"Campos, Lowery and Robinson General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+817,"Cooper, Adams and Smith General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+818,Reeves General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+819,"Hicks, Simpson and Baker Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+820,"Davis, Gill and Obrien Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+821,Harmon Inc General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+822,"Calderon, Williamson and Webb Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+823,Arnold-Cox Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+824,"Powell, Sullivan and Mcclain Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+825,White-Jones General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+826,Rocha-Weiss General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+827,Smith Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+828,Petersen and Sons Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+829,"Steele, Boyd and Kelly Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+830,Collins PLC Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+831,Ramirez-Briggs Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+832,Griffin-Miller Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+833,Gardner-Wong Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+834,"Juarez, Dean and Turner Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+835,Kirk PLC Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+836,"Hill, Hernandez and Johnston General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+837,Golden PLC Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+838,Ortiz Inc Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+839,Moreno-Smith General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+840,"Smith, Thomas and Barton Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+841,"Young, Hoover and Frank Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+842,Harvey-Chan General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+843,Mahoney General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+844,Wood-Briggs Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+845,"Jones, Ortiz and Cruz Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+846,Martinez-Snyder General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+847,Martinez and Sons Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+848,Keith-Escobar General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+849,"Martinez, Smith and Gardner Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+850,Walker-Austin General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+851,Jennings PLC Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+852,Stone and Sons Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+853,Brown-Mcknight General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+854,Miller Inc Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+855,"Hamilton, Fox and Wang General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+856,Harris PLC Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+857,Sullivan-Chen Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+858,Norman Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+859,Fischer and Sons Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+860,"Austin, Bentley and Day Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+861,Wagner-Weaver Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+862,Pena General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+863,Rowland PLC Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+864,Obrien Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+865,Ellis-Costa Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+866,Anderson-Stewart General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+867,Huynh-Larson General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+868,"Evans, Cox and Smith Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+869,Wilkins General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+870,Miller-Lopez Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+871,Foster-Norton Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+872,Schwartz Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+873,"Miller, Wilson and Sanchez Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+874,"Edwards, Baker and Smith Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+875,Johnston-Mitchell Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+876,Simpson Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+877,Lawrence-Golden Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+878,Ochoa-Turner Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+879,"Campbell, Wilson and Mendoza Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+880,Torres-King Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+881,Hernandez Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+882,Collins-Solomon Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+883,Hoffman-Boyle Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+884,Osborne-Pacheco General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+885,Smith-Gonzalez Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+886,"Watkins, Martin and Perez Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+887,"Roberts, Peters and Le General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+888,"Elliott, Carrillo and Williams Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+889,"Jackson, Johnson and Banks Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+890,Martinez-Clark General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+891,"Cook, Brown and Walker Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+892,Stone and Sons Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+893,Ruiz Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+894,Hodges Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+895,Hernandez-Powell General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+896,Richards-Sanchez Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+897,Black-Carlson Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+898,Walker-Jensen Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+899,Price Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+900,Davis-Navarro Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+901,James-Hall Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+902,Thompson General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+903,Burton-Lee Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+904,"Rivers, Mitchell and Nelson Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+905,Rivas-Lawson Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+906,"Rodriguez, Bell and Torres Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+907,Paul-Perez Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+908,Stevens Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+909,Lewis PLC General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+910,Phelps-Valdez Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+911,"Patterson, Ruiz and Morales Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+912,Shannon Inc Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+913,Frank Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+914,Walker-James General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+915,"Young, Brooks and Oliver General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+916,James-Johnson General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+917,Byrd-Carlson Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+918,"Oliver, Clark and Harris Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+919,Kelly Inc Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+920,"Benitez, Nguyen and Dodson Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+921,Hinton-Fowler Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+922,Braun Inc Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+923,Simpson-Hardin Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+924,Weaver and Sons Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+925,"Wong, Davis and Smith General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+926,"Miller, Stone and Phillips General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+927,Kelly-Johnson Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+928,Collins-Ashley Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+929,Arnold Inc Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+930,Miller-Thompson Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+931,"Jones, Greene and Castro Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+932,King Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+933,"Andrade, Robinson and Smith General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+934,Carter-Cross Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+935,"Mitchell, Carroll and Chung Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+936,Gallagher-Nielsen Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+937,"Pittman, Robinson and Burgess General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+938,Hill Inc Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+939,Chandler PLC Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+940,Valdez-Rodriguez Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+941,Huber Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+942,Hill and Sons Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+943,Cline-Robinson General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+944,Woods Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+945,King-Allen Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+946,Kelly-Clark General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+947,Wright Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+948,Smith Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+949,Miller PLC General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+950,"Erickson, Valdez and Clark General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+951,Pope General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+952,Nunez-Brown General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+953,Riley Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+954,Harris Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+955,"Norris, Hall and Martin Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+956,Weaver PLC Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+957,Rodriguez Inc Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+958,Brown Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+959,Miller-Preston Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+960,"Williams, Howell and Washington Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+961,Chambers-Ramos General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+962,Flores General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+963,Norton Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+964,Reynolds and Sons General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+965,"Wood, Rose and Page Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+966,"Moore, Howell and Booker Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+967,Dennis-Robbins Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+968,"Vega, Chen and Cain Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+969,Roth-Aguilar Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+970,Williams-Crawford Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+971,"Wiggins, Sanchez and Arnold Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+972,Carter-Hutchinson General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+973,Thornton Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+974,Scott-Griffin Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+975,"Smith, Reed and Lewis General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+976,Lee PLC Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+977,Nelson-Ferguson Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+978,Haney-Byrd Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+979,Hensley-King Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+980,Bishop Inc Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+981,Walton and Sons Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+982,Edwards-Sanchez Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+983,Peterson-Anthony General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+984,Hall-Gates Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+985,"Martinez, Mcconnell and Mann Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+986,Green-Hill General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+987,Johnson and Sons Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+988,Frazier-Braun General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+989,Patel-Rowe Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+990,"Taylor, Fisher and French Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+991,"Hayes, West and Norris Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+992,Meyer-Chavez Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+993,"Munoz, Clark and Lucas General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+994,Espinoza-Newman General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+995,Serrano-Stevens Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+996,"Thomas, Russell and Patel General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+997,Jones PLC Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+998,Roberts-Chandler Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+999,"Davis, Gutierrez and Whitehead General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1000,"Jennings, Moss and Maxwell Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1001,Roberts and Sons Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1002,Sanders-Rodriguez General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1003,Price-Hill Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1004,Green General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1005,"Collins, Mccormick and Graham General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1006,Garcia General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1007,Lambert-Daniels Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1008,Mcclure-Brown General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1009,Vasquez-Lopez General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1010,Perez Inc General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1011,White General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1012,White-Allison Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1013,"Clark, Johnson and Mcintyre General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1014,Kelly-Cox Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1015,"Barnes, Harris and Johnson Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1016,"Rogers, Perry and Perry Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1017,"Gaines, Rubio and Conway General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1018,Hurley-Robinson Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1019,Nolan-Moore Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1020,Patton-Cooper General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1021,Perry-Steele Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1022,"Benitez, Mclaughlin and Hartman Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1023,Green-Mcbride General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1024,"Herrera, Davis and Jarvis Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1025,"Baxter, Mills and Dean Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1026,"Mcdonald, Cook and Baker Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1027,"Hutchinson, West and Johnson Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1028,Dennis and Sons Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1029,Mason-Martin General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1030,Olson and Sons Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1031,Cook PLC Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1032,Villa and Sons Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1033,"Smith, Villanueva and Ramirez Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1034,"Jones, Calderon and Pitts Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1035,Edwards PLC General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1036,"Garcia, Wolf and Simmons Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1037,Adams Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1038,Ruiz Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1039,Hall Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1040,Rodriguez-Mason Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1041,"Reilly, Sellers and Schmidt Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1042,Christian-Stokes Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1043,Hill-Newman Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1044,Fuller-Adams Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1045,"Jackson, Cantu and Yates Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1046,"Gonzales, Haas and Robinson Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1047,"Mitchell, Conley and Patel Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1048,Gilmore Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1049,Chavez-Harris Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1050,Williams PLC Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1051,Whitehead Inc Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1052,Hurst-Rowe Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1053,"Larson, Nichols and Allen Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1054,Hunter Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1055,Martinez Inc General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1056,Mason-Jones General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1057,Cardenas Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1058,"Wang, Richardson and Simpson Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1059,Johnson Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1060,Gamble-Sandoval Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1061,Berry PLC Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1062,"Long, Carpenter and Watts Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1063,Holland Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1064,Schultz-Kelly Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1065,Wallace-Webster General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1066,Scott PLC Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1067,Hudson-Bryant Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1068,Anderson Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1069,"Delacruz, Wilson and Melendez Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1070,"Rogers, Pope and Bradford Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1071,"Anderson, Moody and Mendez Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1072,Page Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1073,"Kelly, Espinoza and Robinson Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1074,Jackson-Reynolds Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1075,"Gonzalez, Williams and Diaz Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1076,Key-Norman Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1077,"Perkins, Ramirez and Love Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1078,"Nunez, Castillo and Mullen Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1079,"Snow, Adams and Maldonado Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1080,"Carroll, Garner and Moon General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1081,Olson-Miller Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1082,Smith Inc General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1083,"Bauer, Villegas and Henderson General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1084,Deleon Inc General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1085,Harris Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1086,Gray Inc General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1087,Kent and Sons General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1088,Pierce PLC Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1089,Moore-Doyle Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1090,Durham-Harris General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1091,"Mcbride, Thompson and Vasquez Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1092,Anderson-Fernandez General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1093,Combs-Strickland Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1094,Morton-Peterson Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1095,Norris-Farmer Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1096,Espinoza-Bell Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1097,Marshall-Briggs Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1098,"Gilbert, Hall and Ramirez General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1099,"Davenport, Morgan and Kim Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1100,Harrison General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1101,Salinas-Hill General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1102,Leonard PLC Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1103,Sloan Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1104,Rhodes Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1105,Carrillo PLC Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1106,Young-Ponce Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1107,"Mahoney, Collins and Griffin Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1108,Neal-Reid General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1109,"Foster, Hines and Coleman General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1110,Harvey-Parker Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1111,Rivas Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1112,"Malone, Reyes and Thomas Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1113,Williams-Keller Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1114,Pearson Inc General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1115,Robertson and Sons Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1116,Medina Inc General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1117,Johnson-Pena Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1118,Ashley and Sons Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1119,Riley General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1120,"Rivera, Hughes and Bright General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1121,Duran-Joseph Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1122,"Reed, Johnson and Porter Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1123,"Smith, White and Salinas Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1124,Hughes-Lucas Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1125,Harrington-Herrera Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1126,"Khan, Harris and Mason General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1127,"Rogers, Martinez and Cummings Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1128,Williams-Gutierrez Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1129,Foster-Stevens Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1130,Johnston Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1131,Townsend Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1132,"Byrd, Diaz and Haley Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1133,"Perez, Juarez and White Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1134,"Silva, Hood and Hood Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1135,Duffy Inc Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1136,"Donovan, Bates and Elliott Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1137,Patel PLC Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1138,"Morrison, Kane and Mcdonald Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1139,"Mckay, Torres and Gonzalez General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1140,"Cameron, Reynolds and Kim Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1141,Warner and Sons General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1142,Ray Inc General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1143,Hess Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1144,Melton Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1145,Nelson-Jones Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1146,Fischer-Dennis Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1147,Johnson-Anderson Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1148,"Melendez, Green and Shaffer Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1149,Stafford and Sons Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1150,Goodwin-Owen Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1151,Smith-Bell Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1152,"Cook, Haynes and Romero General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1153,Ritter-Willis Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1154,"Clark, Cook and Frazier General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1155,Mcpherson-Barron Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1156,"Kramer, Green and Bailey General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1157,Humphrey-Montgomery Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1158,"Sanchez, Miles and French Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1159,"Waller, Nunez and Fuentes General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1160,Wang-Le Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1161,"Winters, Jimenez and Reed General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1162,"Ponce, Hernandez and Hoffman Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1163,"Cross, Hill and Johnson Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1164,"Vega, Taylor and Miller Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1165,Miles-Harvey Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1166,Chung General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1167,Smith-Watson Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1168,Erickson-Stephens General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1169,Huffman Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1170,"Roberts, Kelly and Chavez Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1171,"Williams, Brewer and Hancock Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1172,Fisher Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1173,Dennis Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1174,Jones Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1175,Tyler PLC Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1176,"Miller, Watson and Parker Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1177,Wheeler-King Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1178,Ramirez-Smith General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1179,"Sanchez, Stevenson and Torres Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1180,Mathews-Herrera Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1181,Cain-Smith Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1182,Cruz-Anderson Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1183,"Marshall, Davis and Rodriguez General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1184,Carr Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1185,Moore Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1186,Ross-Ferguson Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1187,Haynes-Goodwin General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1188,Sawyer-Brooks General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1189,Warren General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1190,Lewis Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1191,Smith-Robinson Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1192,Taylor-Blair Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1193,Foster-Foster Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1194,Howe-Meyer Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1195,"Martinez, Smith and Flores Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1196,Evans Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1197,Beard and Sons Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1198,"Robinson, Sharp and Acosta General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1199,"Miller, Hester and Hughes General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1200,Baker-Richards General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1201,Dickerson PLC General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1202,Whitehead Inc General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1203,Weaver-Rose General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1204,Reese Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1205,"Macdonald, Garcia and Ali General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1206,"Nelson, Roberts and Foster Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1207,"Grant, Hill and Martinez General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1208,Garza-Walker Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1209,"Hunter, Orr and Smith Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1210,"Hunter, Ballard and Gray Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1211,"Mcdonald, Romero and Young General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1212,"Owens, English and Baird General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1213,Roberts Inc Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1214,Turner-Clark Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1215,Wilson-Robinson Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1216,Thomas-Cowan Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1217,"Newman, Smith and Fuentes Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1218,Burns-Robbins General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1219,"Rice, Thompson and Hopkins Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1220,Johnson Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1221,"Burns, Grant and Higgins General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1222,Harrison and Sons General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1223,Miranda and Sons Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1224,Cochran-Bennett Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1225,"Salas, Cantu and Bailey Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1226,"Rhodes, Lambert and Cook General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1227,Smith-Ortega Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1228,Burns PLC Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1229,Snyder and Sons General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1230,Martinez PLC Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1231,Young Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1232,Ramirez PLC Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1233,Murphy General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1234,Flores and Sons Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1235,Thompson Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1236,Reid Inc Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1237,King Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1238,Owens-Boyd Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1239,"Rich, Carter and Chandler Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1240,Ramirez-Jackson General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1241,Larson-Johnson General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1242,Reyes-Carlson Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1243,"Parks, Burnett and Mooney Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1244,"Moore, Mendoza and Marshall General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1245,"James, Grant and Brown General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1246,Lewis-Wood Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1247,"Ramsey, Gordon and Chapman Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1248,"Ho, Adams and Washington Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1249,"Guerrero, Williams and Robinson Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1250,Ray and Sons General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1251,"Hill, Shah and Harrison General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1252,Smith Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1253,"Chandler, Dougherty and Walker Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1254,"Harris, White and Barnett Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1255,Cooper Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1256,"Rodriguez, Gordon and Stone Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1257,Lane Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1258,Oconnell Inc Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1259,"Thomas, Kennedy and Hatfield Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1260,"Simmons, Sexton and Mendez Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1261,Rivera-Martin Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1262,Martin General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1263,Mosley-Burns Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1264,"Robertson, Jacobs and Green Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1265,"Miller, Ramsey and Barrett Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1266,"Lane, Jimenez and Johnson Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1267,Moore-Kelly Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1268,Henry Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1269,"Green, Arnold and Gay General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1270,Moore-Mason Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1271,Lambert-Keith Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1272,Munoz-Jackson Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1273,"Smith, Jones and Rodriguez Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1274,Armstrong-Griffith Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1275,"Kramer, Lara and Mclaughlin Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1276,Hart-Alexander Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1277,"Ramos, Reed and Lewis General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1278,"Reed, Franklin and Smith Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1279,Chandler-Fischer Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1280,"Robinson, Martinez and Mathis General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1281,Lee Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1282,Jackson-Ortiz Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1283,"Weaver, Madden and Gibson General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1284,"Lambert, Johnson and Whitehead Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1285,Schneider-Garcia General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1286,Carter PLC General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1287,Smith-Hernandez General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1288,Smith-Johnson Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1289,"Taylor, Tate and Barr Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1290,Villarreal-Sanders General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1291,"Long, Garza and Martin Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1292,Carpenter-Moore Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1293,Russell-Chen Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1294,Hubbard Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1295,"Gomez, Russell and Scott Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1296,Hayes-Turner General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1297,"Jones, Williams and Cross Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1298,"Johnston, Burns and Villa General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1299,Collins and Sons Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1300,Murphy Inc General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1301,"Clark, Schultz and Roy Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1302,Maxwell-Davis Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1303,Mitchell-Lee Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1304,"Smith, Weber and Pena Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1305,"Watson, Barker and Smith General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1306,White-Leonard Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1307,Whitaker Inc Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1308,Anderson and Sons Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1309,"Nguyen, Ashley and Dorsey General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1310,Gonzalez Inc Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1311,Sweeney PLC Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1312,Buchanan-Dyer Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1313,"Olson, Clay and Flores General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1314,Foster PLC Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1315,Ramos-Li General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1316,Conley and Sons Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1317,"Wheeler, Wilson and Harrington Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1318,Jones-Hester Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1319,"Haynes, Craig and Young Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1320,Thompson-Deleon Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1321,Anderson Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1322,Martinez-Moss Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1323,Anderson-Rush Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1324,Johnson Inc Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1325,Jensen Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1326,Mckay Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1327,Manning General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1328,"Ferguson, Raymond and Walker General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1329,Carter Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1330,"Thompson, Ward and Webb Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1331,Benson-Ferguson Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1332,Sanchez Inc General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1333,Perez-Wilson Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1334,Charles-Montgomery Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1335,"Lewis, Rodriguez and Davis General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1336,Robinson and Sons Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1337,Lang Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1338,Bridges-Gallagher Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1339,"Rivera, Jones and Miller Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1340,Fuller General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1341,"Ray, Martinez and Martinez General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1342,Anderson PLC Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1343,Wilkerson-Baker Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1344,Jordan-Pope Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1345,Henson-Le Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1346,"Phillips, Williams and Owens Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1347,"Arnold, Green and Wright Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1348,Johnson Inc Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1349,Smith-Jordan Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1350,"Brown, Horton and Randall Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1351,Raymond-Waller Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1352,Flynn PLC Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1353,Jackson General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1354,"Taylor, May and Shaw Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1355,Terrell-Simmons Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1356,Pena PLC Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1357,"Vang, Sheppard and Pierce Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1358,"Blackburn, Evans and Smith Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1359,"Stephens, Hood and Johnson Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1360,Gonzales-Moreno Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1361,Perry and Sons Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1362,Brown Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1363,Hill Inc Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1364,Murphy-Allen Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1365,"Lee, Martin and Wilson Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1366,Gallagher-Harvey Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1367,Castro-Duncan General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1368,Weiss-Tyler General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1369,"Duncan, Palmer and Thompson Medical Center",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1370,Beltran-Gill Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1371,"Dennis, Hamilton and Brooks General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1372,Cox-Gentry Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1373,Mitchell-Potter Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1374,"Taylor, Good and Clark Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1375,"Riley, Smith and Burke Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1376,Williams-Hurley Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1377,Briggs-Jones Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1378,Lara-Moreno Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1379,Andrews-Edwards Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1380,Rubio-Allen Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1381,Herman-Sanders Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1382,Newton-Willis Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1383,Brown PLC General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1384,Long-Jackson Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1385,Cox Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,1,Low
+1386,Ramsey-Hernandez Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1387,Bell Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1388,Sawyer-Carter General Hospital,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1389,"Graham, Soto and Bass General Hospital",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1390,Leonard Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1391,Peterson Inc Hospital Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1392,"Patterson, Miller and Sanchez Hospital Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1393,Wright Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,4,Low
+1394,Webb PLC Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,5,Low
+1395,Smith Medical Center,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1396,Smith Medical Group,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1397,"Hill, Guzman and Peters Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low
+1398,"Alexander, Hanna and Hoffman Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,3,Low
+1399,"Wallace, Roberts and Trevino Medical Group",2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,280,2,Low

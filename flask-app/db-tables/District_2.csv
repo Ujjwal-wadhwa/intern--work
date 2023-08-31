@@ -1,0 +1,21 @@
+ID,Hospital Name,Score,District,Risk
+3,"Hendricks, Morgan and Wilson Medical Center",785,2,Medium
+4,"Arnold, Moore and Haas Hospital Group",785,2,Medium
+7,"Chase, Torres and Jones Medical Group",775,2,Medium
+11,"Turner, Jones and Doyle Medical Center",765,2,Medium
+15,Caldwell-Hall Medical Group,760,2,High
+18,Jones-Clayton General Hospital,760,2,High
+20,"Davis, Smith and Jackson General Hospital",755,2,Medium
+21,Jackson-Alexander General Hospital,755,2,Medium
+26,"Wilson, Robles and Morse Medical Group",750,2,High
+30,Cardenas-Mullins Medical Group,745,2,Medium
+36,Deleon-Cox Medical Center,740,2,High
+49,"Bolton, Chavez and Wiley Hospital Group",730,2,High
+52,"Russell, Powell and Gibson Medical Group",730,2,High
+53,"Brown, Wilkins and Moran Medical Center",725,2,Medium
+55,Johnston and Sons General Hospital,725,2,Medium
+58,Lee-Davenport Hospital Group,725,2,Medium
+59,Morris-Owens Medical Center,725,2,Medium
+60,Smith-Schwartz General Hospital,725,2,Medium
+62,Jacobs PLC Medical Center,720,2,High
+69,"Mills, Davis and Mullins General Hospital",715,2,Medium

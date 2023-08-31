@@ -1,0 +1,21 @@
+ID,Hospital Name,Score,District,Risk
+2,"King, Jefferson and White General Hospital",795,3,Medium
+8,"Simmons, Banks and Humphrey Hospital Group",770,3,High
+13,"Roy, Riley and Peters Hospital Group",760,3,High
+14,"Shah, Baldwin and Snyder General Hospital",760,3,High
+19,Moore-Allen Medical Group,760,3,High
+22,Reynolds-Young Medical Group,755,3,Medium
+27,Carter Inc Medical Group,745,3,Medium
+31,Carter-Brown Hospital Group,745,3,Medium
+47,Thomas and Sons Hospital Group,730,3,High
+51,Johnson-Evans Medical Center,730,3,High
+57,"Peters, Fox and Walker Hospital Group",725,3,Medium
+61,Wall-Luna Medical Group,720,3,High
+64,"Smith, Harris and Brown Medical Center",720,3,High
+67,"Lewis, Johnston and Hart Medical Center",720,3,High
+68,Boyd-Sutton Hospital Group,720,3,High
+74,"Hampton, Garcia and Bell Medical Center",715,3,Medium
+75,Thomas-Gonzalez Medical Group,715,3,Medium
+76,"Brown, Huff and Watts Medical Center",710,3,High
+77,Mccarty-Wheeler Medical Group,710,3,High
+78,Knight-Patrick General Hospital,710,3,High

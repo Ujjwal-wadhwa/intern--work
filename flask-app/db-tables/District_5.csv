@@ -1,0 +1,21 @@
+ID,Hospital Name,Score,District,Risk
+1,Scott and Sons Hospital Group,810,5,High
+6,Garrett-Keller Hospital Group,775,5,Medium
+10,Robinson Hospital Group,765,5,Medium
+16,"Moss, White and Ruiz General Hospital",760,5,High
+24,Ferguson PLC Medical Center,750,5,High
+32,Walton-Williams General Hospital,740,5,High
+35,"Lewis, Murray and Mercado General Hospital",740,5,High
+42,Rosales-Rodriguez Medical Group,735,5,Medium
+44,Alexander-Ayers Hospital Group,735,5,Medium
+56,Lester and Sons Hospital Group,725,5,Medium
+70,Reilly and Sons Medical Center,715,5,Medium
+72,Holmes PLC Medical Center,715,5,Medium
+80,Casey PLC General Hospital,710,5,High
+82,Myers PLC General Hospital,710,5,High
+86,"Mckinney, Cook and Bell Medical Group",705,5,Medium
+88,"Smith, Stewart and Thomas Hospital Group",705,5,Medium
+93,"Richardson, Lopez and Rice General Hospital",700,5,High
+98,Lyons and Sons General Hospital,700,5,High
+101,Gibson and Sons Medical Center,695,5,Medium
+110,"Gonzales, Scott and Diaz Medical Center",690,5,High

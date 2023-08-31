@@ -1,0 +1,21 @@
+ID,Hospital Name,Score,District,Risk
+0,Campos Hospital Group,820,1,High
+5,Beard-Anderson Hospital Group,785,1,Medium
+12,Williams-Stephens Medical Center,765,1,Medium
+28,"Ritter, Cabrera and Hess Medical Group",745,1,Medium
+29,"Elliott, Murphy and Cochran Medical Group",745,1,Medium
+34,Coleman General Hospital,740,1,High
+39,Davidson Medical Center,735,1,Medium
+40,"Thompson, Reid and Daniels Hospital Group",735,1,Medium
+41,Lee-Parker Hospital Group,735,1,Medium
+43,Price-Pruitt General Hospital,735,1,Medium
+45,Martinez-Adams General Hospital,735,1,Medium
+50,"Montgomery, Reid and Glenn General Hospital",730,1,High
+66,"Stephens, Hamilton and Munoz Medical Center",720,1,High
+83,Odonnell-Hampton Hospital Group,705,1,Medium
+84,"Gallagher, Miller and Jones Medical Group",705,1,Medium
+92,Robles PLC General Hospital,705,1,Medium
+96,Vega-Terry General Hospital,700,1,High
+100,"Adams, Ramirez and Roberts Medical Group",695,1,Medium
+113,Snow PLC General Hospital,690,1,High
+129,Sanchez-Johnson Medical Group,685,1,Medium

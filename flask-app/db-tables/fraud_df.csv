@@ -1,0 +1,101 @@
+,patient_id,hospital_id,patient_name,fraud_details
+0,1,6,Sarah Harvey,Duplicate medical report
+1,2,9,Gerald Wilson,Unauthorized billing
+2,3,10,Linda Davies,Unauthorized billing
+3,4,4,Courtney Lawrence,Duplicate medical report
+4,5,16,Christopher Bautista,Tampered medical report
+5,6,10,Taylor Davis,Tampered medical report
+6,7,12,Kimberly Williams,Unauthorized billing
+7,8,4,Jessica Sherman,Unauthorized billing
+8,9,5,Tracey Carter,Unauthorized billing
+9,10,14,Justin Middleton,Tampered medical report
+10,11,0,Jeffery Sanders,Duplicate medical report
+11,12,9,Katie Jones,Unauthorized billing
+12,13,15,Xavier Ritter,Duplicate medical report
+13,14,17,Daniel Moran DDS,Unauthorized billing
+14,15,8,Walter Ellis,Unauthorized billing
+15,16,4,Christopher Munoz,Unauthorized billing
+16,17,2,Lori Carlson,Unauthorized billing
+17,18,15,Carol Johnson,Tampered medical report
+18,19,8,Norman Howard,Unauthorized billing
+19,20,3,Jesus Wallace,Tampered medical report
+20,21,1,Aaron Oliver,Unauthorized billing
+21,22,16,Paula Henry,Tampered medical report
+22,23,8,Christina Guerrero,Duplicate medical report
+23,24,17,James Carter,Unauthorized billing
+24,25,7,Barbara Lyons,Unauthorized billing
+25,26,5,Lindsay Strickland,Tampered medical report
+26,27,3,Michael Huff,Unauthorized billing
+27,28,1,David Johnson,Duplicate medical report
+28,29,12,Keith Morris,Tampered medical report
+29,30,8,Calvin Gilbert,Unauthorized billing
+30,31,9,Lauren Aguilar,Tampered medical report
+31,32,12,Melissa Willis,Unauthorized billing
+32,33,14,Christopher Salazar,Tampered medical report
+33,34,17,Calvin Anderson,Duplicate medical report
+34,35,13,Elizabeth Knight,Duplicate medical report
+35,36,14,Jessica Hahn,Duplicate medical report
+36,37,12,Stephen Jones,Duplicate medical report
+37,38,15,Michael Hubbard,Duplicate medical report
+38,39,7,Angela Anderson,Duplicate medical report
+39,40,9,Barbara Swanson,Unauthorized billing
+40,41,15,Corey Carey,Tampered medical report
+41,42,19,Kevin Price,Duplicate medical report
+42,43,8,Mary Wilson,Unauthorized billing
+43,44,6,Tracy Sparks,Unauthorized billing
+44,45,11,Austin Conley,Duplicate medical report
+45,46,2,Christina Mcgee,Tampered medical report
+46,47,19,Todd Yang,Tampered medical report
+47,48,2,Shannon Nelson,Unauthorized billing
+48,49,9,Joshua Melendez,Duplicate medical report
+49,50,7,Jerry Myers,Tampered medical report
+50,51,16,Melissa Stokes,Duplicate medical report
+51,52,8,Joyce Macias,Tampered medical report
+52,53,7,Rachael Parker,Tampered medical report
+53,54,17,George Drake,Duplicate medical report
+54,55,16,Bryce Cochran,Duplicate medical report
+55,56,10,Jerry Martinez,Duplicate medical report
+56,57,14,Brittney Gonzalez,Tampered medical report
+57,58,16,Anthony Vaughan,Tampered medical report
+58,59,4,Tara Gardner,Unauthorized billing
+59,60,0,Chad Webb,Duplicate medical report
+60,61,11,Gregory Vazquez,Unauthorized billing
+61,62,5,Erica Flores,Tampered medical report
+62,63,3,Antonio Murphy,Unauthorized billing
+63,64,10,Dale Pugh,Tampered medical report
+64,65,5,Matthew Mcintyre,Unauthorized billing
+65,66,14,Rhonda Ward,Tampered medical report
+66,67,4,Patrick Ferguson,Duplicate medical report
+67,68,2,Cheyenne Walker,Duplicate medical report
+68,69,13,Christine Thornton,Unauthorized billing
+69,70,1,Christopher Cordova,Duplicate medical report
+70,71,11,Jeffrey Hendricks,Tampered medical report
+71,72,13,Monica Love,Tampered medical report
+72,73,4,Cheryl Kelly,Tampered medical report
+73,74,13,Savannah Vang,Duplicate medical report
+74,75,0,Gregory Myers,Unauthorized billing
+75,76,17,Melanie Keller,Tampered medical report
+76,77,4,Rebecca Patel,Duplicate medical report
+77,78,15,Karen Nicholson,Tampered medical report
+78,79,1,Michael Roberts,Duplicate medical report
+79,80,13,Tonya Hayden,Unauthorized billing
+80,81,4,Joshua Lucero,Unauthorized billing
+81,82,15,Patricia Porter,Tampered medical report
+82,83,5,Alisha Randall,Tampered medical report
+83,84,15,Scott Blake,Tampered medical report
+84,85,15,Whitney Stephens,Unauthorized billing
+85,86,19,Seth Vazquez,Tampered medical report
+86,87,15,Austin Garcia,Unauthorized billing
+87,88,9,Patrick Diaz,Tampered medical report
+88,89,4,Steven Reyes,Duplicate medical report
+89,90,5,Eric Rodriguez,Unauthorized billing
+90,91,3,Mrs. Ashley Reese,Unauthorized billing
+91,92,5,Stephanie Miller,Unauthorized billing
+92,93,6,Shannon Webb,Unauthorized billing
+93,94,12,Andrew Robinson,Duplicate medical report
+94,95,2,Allen Hunter,Duplicate medical report
+95,96,8,Erica Hernandez,Unauthorized billing
+96,97,13,Brian Burton,Duplicate medical report
+97,98,10,Christian Krause,Unauthorized billing
+98,99,9,William Wilson,Duplicate medical report
+99,100,1,Michelle Cox,Tampered medical report

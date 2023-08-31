@@ -1,0 +1,21 @@
+ID,Hospital Name,Score,District,Risk
+0,Campos Hospital Group,820,1,High
+1,Scott and Sons Hospital Group,810,5,High
+2,"King, Jefferson and White General Hospital",795,3,Medium
+3,"Hendricks, Morgan and Wilson Medical Center",785,2,Medium
+4,"Arnold, Moore and Haas Hospital Group",785,2,Medium
+5,Beard-Anderson Hospital Group,785,1,Medium
+6,Garrett-Keller Hospital Group,775,5,Medium
+7,"Chase, Torres and Jones Medical Group",775,2,Medium
+8,"Simmons, Banks and Humphrey Hospital Group",770,3,High
+9,Owens PLC Medical Center,770,4,High
+10,Robinson Hospital Group,765,5,Medium
+11,"Turner, Jones and Doyle Medical Center",765,2,Medium
+12,Williams-Stephens Medical Center,765,1,Medium
+13,"Roy, Riley and Peters Hospital Group",760,3,High
+14,"Shah, Baldwin and Snyder General Hospital",760,3,High
+15,Caldwell-Hall Medical Group,760,2,High
+16,"Moss, White and Ruiz General Hospital",760,5,High
+17,Simpson-Howard Hospital Group,760,4,High
+18,Jones-Clayton General Hospital,760,2,High
+19,Moore-Allen Medical Group,760,3,High
