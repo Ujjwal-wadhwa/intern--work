@@ -1,0 +1,33 @@
+{% extends 'base.html'%}
+{% block content %}
+<body>
+    <h1>Hospital Data</h1>
+    <br/>
+    <table class="table table-dark table-striped table-hover">
+        <tr>
+            <th>hospital_id</th>
+            <th>Hospital Name</th>
+            <th>Score</th>
+            <th>District</th>
+            <th>Risk</th>
+            <th>Frauds</th>
+            <!-- Add more column headers as needed -->
+        </tr>
+        {% for row in data %}
+        <tr>
+            <td>{{ row[0] }}</td>
+            <td>{{ row[1] }}</td>
+            <td>{{ row[2] }}</td>
+            <td>{{ row[3] }}</td>
+            <td>{{ row[4] }}</td>
+            <!-- Add more columns as needed -->
+            <td>
+                <a href="{{ url_for('fraud_details', hospital_id=row[0]) }}">
+                    <button type="button" class="btn btn-outline-info">{{ row[5] }}</button>
+                </a>
+            </td>
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+{% endblock %}

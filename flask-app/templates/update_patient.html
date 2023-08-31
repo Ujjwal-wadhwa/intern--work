@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Update Patient</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="mb-4">Update Patient</h1>
+        <form method="POST">
+            <div class="form-group">
+                <label for="patient_id">Patient ID:</label>
+                <input type="text" class="form-control" id="patient_id" name="patient_id" required>
+            </div>
+            <div class="form-group">
+                <label for="treatment_code">Treatment Code:</label>
+                <input type="text" class="form-control" id="treatment_code" name="treatment_code">
+            </div>
+            <div class="form-group">
+                <label for="action_taken">Action Taken:</label>
+                <input type="text" class="form-control" id="action_taken" name="action_taken">
+            </div>
+            <div class="form-group">
+                <label for="next_visit_suggestion">Next Visit Suggestion:</label>
+                <input type="text" class="form-control" id="next_visit_suggestion" name="next_visit_suggestion">
+            </div>
+            <div class="form-group">
+                <label for="prescription">Prescription:</label>
+                <input type="text" class="form-control" id="prescription" name="prescription">
+            </div>
+            <button type="submit" class="btn btn-primary">Update Patient</button>
+        </form>
+    </div>
+</body>
+</html>

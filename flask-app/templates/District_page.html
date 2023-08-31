@@ -1,0 +1,24 @@
+{% extends 'base.html'%}
+{% block content %}
+<body>
+    <h1>District {{ district_id }} </h1>    <table class="table table-dark table-striped table-hover">
+        <tr>
+            <th>hospital_id</th>
+            <th>Hospital Name</th>
+            <th>Score</th>
+            <th>District</th>
+            <th>Risk</th>
+
+            <!-- Add more column headers as needed -->
+        </tr>
+        {% for row in district_data %}
+        <tr>
+            <td>{{ row[0] }}</td>
+            <td>{{ row[1] }}</td>
+            <td>{{ row[2] }}</td>
+            <td>{{ row[3] }}</td>
+            <td>{{ row[4] }}</td>
+        </tr>
+        {% endfor %}
+</body>
+{% endblock %}

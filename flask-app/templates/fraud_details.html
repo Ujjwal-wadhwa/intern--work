@@ -1,0 +1,31 @@
+{% extends 'base.html'%}
+{% block content %}
+<body>
+    <h1> Fraud Cases Found </h1>
+    <h3> Hospital id = {{hospital_id}}</h3>
+    <br/>
+    <table class="table table-dark table-striped table-hover">
+        <tr>
+            <th>Patient ID</th>
+            <th>Hospital ID</th>
+            <th>Patient Name</th>
+            <th>Fraud Type</th>
+            <th>Case Details</th>
+
+        </tr>
+        {% for row in hospital_fraud %}
+        <tr>
+            <td>{{ row[0] }}</td>
+            <td>{{ row[1] }}</td>
+            <td>{{ row[2] }}</td>
+            <td>{{ row[3] }}</td>
+            <td>
+                <a href="{{ url_for('fraud_case_details',hospital_id = row[1], patient_id=row[0]) }}">
+                    <button type="button" class="btn btn-outline-info">Details</button>
+                </a>
+            </td>
+
+        </tr>
+        {% endfor %}
+</body>
+{% endblock %}
