@@ -15,14 +15,10 @@ from urllib.parse import quote_plus
 app = Flask(__name__)
 app.secret_key = os.environ.get('FLASK_SECRET_KEY')
 # Database connection configuration
-db_user = 'root'
-db_password = 'UJJU@god1'
-db_host = 'localhost'
-db_name = 'ey_hosp'
-# db_host = os.environ.get('DB_HOST')
-# db_user = os.environ.get('DB_USER')
-# db_password = os.environ.get('DB_PASSWORD')
-# db_name = os.environ.get('DB_NAME')
+db_host = os.environ.get('DB_HOST')
+db_user = os.environ.get('DB_USER')
+db_password = os.environ.get('DB_PASSWORD')
+db_name = os.environ.get('DB_NAME')
 
 # Create a database connection using mysql.connector
 conn = mysql.connector.connect(
